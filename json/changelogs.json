@@ -1,0 +1,3378 @@
+{
+    "Changelog": [
+    {
+        "type": "Update",
+        "date": "April 15 2022",
+        "name": "Is this the return?",
+        "content": [
+            "Re-hosted.",
+            "Fixed some bugs with the client"
+        ]
+    },
+      {
+        "type": "Update",
+        "date": "March 21 2022",
+        "name": "Omg gaem ded?",
+        "content": [
+          "Added Careenervirus to Boss Rush",
+          "Added Kinderbumper to Boss Rush",
+          "Added Ladder to beta tanks",
+          "Added Laddertower to beta tanks. Upgrades from Ladder",
+          "Added Rancor to beta tanks. Upgrades from Ladder",
+          "Added Stabilizer to beta tanks. Fuck you",
+          "Added Bracket to beta tanks. Upgrades from Stabilizer. Worst trapper in the history of trappers",
+          "Fighter-H has been released and upgrades from Fighter and Surfer",
+          "Pentanail has been released and upgrades from Naigun",
+          "Nailer has been released and upgrades from Naigun and Barricade",
+          "Rebalanced all of those tanks I just mentioned",
+          "Bonker is now a pentagon"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "March 11 2022",
+        "name": "OOO OYGZQ ZKQ JS",
+        "content": [
+          "Added Putt-Putt which branches from Piston",
+          "Added Submersible which branches from Submarine and Carrier",
+          "Buffed Swarm reload",
+          "Nerfed Backblaster's back bullet reload and health",
+          "Heavily buffed Grower's branch bullet duration",
+          "Heavily nerfed Grower's branch bullet speed",
+          "Changed Submarine's design",
+          "Changed Sonar's design",
+          "Changed Submersible's design",
+          "Zoqa PP-1-MOQ",
+          "Added Yeeter to Misc"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 24 2022",
+        "name": "I'm still alive, and this game is my main focus once I finish some work",
+        "content": [
+          "Added all the modes back to the selectors",
+          "Fixed the class tree",
+          "Fixed tag mode not working with 8 teams"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 19 2022",
+        "name": "z46 plays with mockups episode 8, the last forEach loop",
+        "replacer": [
+          "https://ext.oxyrex.io:3000/mockups/guide",
+          "<thingy onclick=\"window.open('https://ext.oxyrex.io:3000/mockups/guide');\" style=\"text-decoration: underline;color: blue;\">This page</thingy>"
+        ],
+        "content": [
+          "Reworked how mockups are created, which optimized load times as well as fixing some issues. An experimental compression option is in the works",
+          "Whenever a dev edits tanks while the server is online, the pause that signifies that mockups are loading is much shorter",
+          "Added an experimental mockup API, if you are interested in using this, please visit https://ext.oxyrex.io:3000/mockups/guide for more info",
+          "Redesigned Kashmir's function"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 19 2022",
+        "name": "UPS lost the package... some old lady got a surprise :(",
+        "content": [
+          "Fixed Aggressor, and the Cytochrome branch",
+          "Added Kashmir to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 17 2022",
+        "name": "i have mailed a pipe bomb to your location in three hours",
+        "content": [
+          "Rebalanced Subduer and expanded the branch",
+          "Subduer now branches off of Basic"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 16 2022",
+        "name": "E",
+        "content": [
+          "Clusterbomber has been released and upgrades from Shrapnel and Shotgun",
+          "Dumper has been released and upgrades from Surfer and Battleship",
+          "Raider has been released and upgrades from Bomber and Fighter",
+          "Auto-Motor has been released and I really don't need to say what it upgrades from",
+          "Mad Max has been redesigned to be not overleveled",
+          "Nerfed Clusterbomber, again",
+          "Added Rail to Beta tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 14 2022",
+        "name": "Go get some bitches, it's Valentine's day :)",
+        "content": [
+          "Redesigned Bar and Rum",
+          "Added Subduer and a basic branch to Beta Tanks",
+          "Added Uzi to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 13 2022",
+        "name": "C4 go boom",
+        "content": [
+          "Added Bar to beta tanks",
+          "Added Pub to beta tanks",
+          "Nerfed Gemseeker drone count"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 13 2022",
+        "name": "Y is geam ded",
+        "content": [
+          "Plow has been released and upgrades from Blaster and Obliterator",
+          "Road Roller has been released and upgrades from Plow and Steamroller",
+          "Furnace has been released and upgrades from Blaster and Destroyer",
+          "Kiln has been released and upgrades from Furnace and Anni",
+          "Nerfed Assailer",
+          "Nerfed Clusterbomber"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 12 2022",
+        "name": "Treasure in the void",
+        "content": [
+          "Gemseeker has been released and upgrades from Eggmancer",
+          "Driller has been released and upgrades from Screwgun",
+          "Drillgun has been released and upgrades from Nailgun and Driller",
+          "Added Fighter-H to Beta tanks",
+          "Added Nailer to Beta tanks",
+          "Added Pentanail to Beta tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 11 2022",
+        "name": "I update gaem",
+        "content": [
+          "Swivelware has been released and upgrades from Software",
+          "Rotor has been released and upgrades from Rebellion and Motor",
+          "Mad Max has been released and upgrades from Rotor",
+          "Megumin has been released and upgrades from Package Bomb and Magician",
+          "Added Plow to beta tanks",
+          "Added Road Roller to beta tanks",
+          "Added Raider to beta tanks",
+          "Added Dumper to beta tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 10 2022",
+        "name": "eye eggs isd",
+        "content": [
+          "Software has been released and upgrades from Computer",
+          "Dualware has been released and upgrades from Software and Server",
+          "Ryzen has been released and upgrades from Software",
+          "Oxymoron has been released and upgrades from Megabyte",
+          "Added Rotor to Beta tanks",
+          "Added Mad Max to Beta tanks",
+          "Nerfed Clusterbomber range and speed"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 10 2022",
+        "name": "cocc",
+        "content": [
+          "Reworked Lancer balancing, and stats",
+          "Buffed Dropship",
+          "Added more Dropship upgrades"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 8 2022",
+        "name": "dropshit",
+        "content": [
+          "Added Dropship to Beta Tanks",
+          "Optimizations and formatting changes"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 6, 2022",
+        "name": "deth",
+        "content": [
+          "Container has been released and upgrades from Mega-Trapper and Dualtrapper",
+          "Waller has been released and upgrades from Container, Hotshot, and Barricade",
+          "Riot has been released and upgrades from Streamliner and Barricade",
+          "Nerfed all three of these",
+          "Added Hardware to beta tanks",
+          "Added Dualware to beta tanks",
+          "Buffed Software minions",
+          "Rebalanced Clusterbomber"
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "February 6, 2022",
+        "name": "hek",
+        "content": [
+          "Fixed bugs",
+          "Added new Launcher tanks",
+          "Redesigned ammunition for some Launcher branches",
+          "Buffed Skimmers slightly"
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "February 5, 2022",
+        "name": "why is there a tank export called 'mommyMonday'?????",
+        "content": [
+          "Removed all Tesla tanks",
+          "Fixed Ajafujis being in Boss Rush"
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "February 5, 2022",
+        "name": "ERROR, WRONG WORLD",
+        "content": [
+          "Buffed Swarm duration even more",
+          "Buffed Swarm damage",
+          "Buffed Drone damage",
+          "Buffed Trap duration",
+          "Heavily buffed the auto-2 branch in damage",
+          "Slightly nerfed the Pelleter branch in damage",
+          "Nerfed the Tesla ability to slow people down less",
+          "Navyist now has 6 drones instead of 5",
+          "Phaser now has 6 drones instead of 5",
+          "Buffed Phaser's flare duration",
+          "Buffed Firestarter's bullet health and damage",
+          "Buffed Navalist's swarm reload",
+          "Slightly buffed Tomb Raider's bullet health",
+          "Slightly buffed certain Surgeon upgrades reload",
+          "Slightly nerfed Flank Cruiser and it's upgrades' reload",
+          "Slightly adjusted Redistributor's reload",
+          "Ooo, tokd toia"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 5, 2022",
+        "name": "Git Doxxed",
+        "content": [
+          "Doxxer has been released and upgrades from Multishot",
+          "Exposer has been released and upgrades from Doxxer",
+          "Added Clusterbomber to Beta Tanks",
+          "Added Assailer to Beta Tanks",
+          "Added Shelling to Beta Tanks",
+          "Added Diluter to Beta Tanks",
+          "Added Ransack to Beta Tanks",
+          "Nerfed Furnace and Kiln"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 5, 2022",
+        "name": "1/8",
+        "content": [
+          "Optimized client rendering",
+          "Started reworking aircraft carriers"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 4, 2022",
+        "name": "hi",
+        "content": [
+          "Added Oktyabrskaya Revolutsiya, a Boss Rush specific boss",
+          "Added Gaea, a new final boss for Boss Rush"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 4, 2022",
+        "name": "bye",
+        "content": [
+          "Fixed AI not targeting things when they should",
+          "Lancers and Flails no longer exist in Boss Rush",
+          "Due to the lack of any respect or gratitude for the time I put into this game, I will be taking a break for an indefinite amount of time. - z46"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 3, 2022",
+        "name": "Deth",
+        "content": [
+          "Override has been released and upgrades from Director",
+          "Furnace has been Added to beta tanks",
+          "Kiln has been Added to beta tanks",
+          "Ascended Steamroller has been reworked and added to Boss Rush",
+          "Don't worry it is quite beatable I made sure",
+          "Added Speck to misc"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "February 3, 2022",
+        "name": "New procedures",
+        "content": [
+          "Title says it all"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "Febertary 2rd 2022",
+        "name": "International Steamroller Day",
+        "content": [
+          "Steamroller has been released and upgrades from Obliterator and Destroyer",
+          "Planer has been released and upgrades from Steamroller and Bulldozer",
+          "Flattener has been released and upgrades from Steamroller and Anni",
+          "Yeti has been released and upgrades from Steamroller and Sleet",
+          "Sleetbrid has been released and upgrades from Sleet and Chillbrid",
+          "Added Ascended Steamroller to Beta Bosses. Yes it needs nerf ik"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "Febrerary 2rd 2022",
+        "name": "oh my god neph",
+        "content": [
+          "Updated libraries",
+          "Fixed issues with entities",
+          "Reworked activation",
+          "Rewrote the game loop",
+          "Buffed Tornado",
+          "Buffed Elite Skimmer"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "Febrerary 2rd 2022",
+        "name": "yes",
+        "content": [
+          "Added a new US server running on Digital Ocean",
+          "Removed Sandbox from the rotation"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "Febrerary 1nd 2022",
+        "name": "I didn't create any new acid tanks this update",
+        "content": [
+          "Backblaster has been released and upgrades from Rocketeer and Dustbowl",
+          "Demonologist has been released and upgrades from Surgeon and Promenader",
+          "Infectious has been released and upgrades from Promenader",
+          "Added Ascended Pentaquark to Boss Rush final bosses. I can't guarantee it is possible to kill since it's so hard to test so good luck :trol:"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "Febryeary 1nd 2022",
+        "name": "my mans got laid",
+        "content": [
+          "added new nest defender",
+          "started working on new final boss for boss rush",
+          "buffed annihilator reload"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 31 2022",
+        "name": "I updat geam",
+        "content": [
+          "Tesla Trapper has been released and upgrades from Trapper",
+          "Megawatt has been released and upgrades from Tesla Trapper and Mega-Trapper",
+          "Gigawatt has been released and upgrades from Megawatt and Giga-Trapper",
+          "Zapp Gun has been released and upgrades from Megawatt and Musketeer",
+          "Shock Trooper has been released and upgrades from Megawatt and Briefcase",
+          "Electritian has been released and upgrades from Tesla Trapper",
+          "Mint has been released and upgrades from Acid Trapper and Frost Trapper",
+          "Superconductor has been released and upgrades from Tesla Trapper and Mint",
+          "Glaciologist has been released and upgrades from Biologist and Mint",
+          "Spearmint has been released and upgrades from Rat poison, Icebox, and Mint",
+          "Matchlock has been released and upgrades from Musketeer",
+          "Added Infectious to beta tanks",
+          "Added Backblaster to beta tanks",
+          "Added Softlocker to beta tanks. Upgrades from Software",
+          "Buffed Doxxxxxxxer"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 30, 2022",
+        "name": "Cowabunga it is",
+        "content": [
+          "Hotshot has been released and upgrades from Minigun and Obliterator",
+          "Hotliner has been released and upgrades from Hotshot and Streamliner",
+          "Steamshot has been released and upgrades from Hotshot",
+          "Chipotle has been released and upgrades from Hotshot and Cropduster",
+          "Nerfed Hotliner",
+          "Added Incognito to Beta tanks",
+          "Added Riot to Beta tanks",
+          "Added Container to Beta tanks",
+          "Added Waller to Beta tanks",
+          "Added Demonologist to Beta tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 29, 2022",
+        "name": "bro there's this guy and he's so sexy heelelllllppppp",
+        "content": [
+          "Fixed errors with tanks that we devs have made",
+          "Changed maze generation in Trench Warfare mode",
+          "Invulnerable entities now collide with walls, fixing many bugs",
+          "Improved pathfinding AI",
+          "Flipped the stats of Nest Defender traps and Celestial traps",
+          "Moved Zeppelin to Misc.",
+          "Improved safety in sending data",
+          "Fixed color override",
+          "Added framework for Escort mode"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 29, 2022",
+        "name": "Personal Quality of Life Improvement",
+        "content": [
+          "Removed Spencer"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 28, 2022",
+        "name": "Hotfix 0.0.2",
+        "content": [
+          "Fixed outbounds in trench warfare mode",
+          "Made it harder for red to win in trench warfare",
+          "Fixed an annoying crash"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 28, 2022",
+        "name": "https://diepsp.surge.sh/",
+        "content": [
+          "Shields no longer pushes bosses",
+          "Added code to attempt to fix errors with tanks that have been accumulated over the times",
+          "Added a new gamemode, this replaces Naval Battle in the rotation",
+          "Fixed bugs with pathfinding",
+          "Bosses in Boss Rush now have pathfinding AI",
+          "Started experimenting with doors"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 27, 2022",
+        "name": "Fresh and Minty",
+        "content": [
+          "Submachine has been released and upgrades from Pelleter",
+          "Added Mint to beta tanks",
+          "Added Peppermint to beta tanks",
+          "Added Superconductor to beta tanks",
+          "Added Glaciologist to beta tanks",
+          "Added Override to beta tanks",
+          "Musketeer now upgrades from Mega Trapper instead of Trapper"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 25, 2022",
+        "name": "Git Obliterated",
+        "content": [
+          "Obliterator has been released and upgrades from Pounder and Sniper",
+          "Bulldozer has been released and upgrades from Obliterator and Assassin",
+          "Bobcat has been released and upgrades from Bulldozer and Ranger",
+          "Sleet has been released and upgrades from Obliterator and Chiller",
+          "Nerfed Hotshot branch reload, damage, and bullet speed",
+          "Added Megawatt to beta tanks. Upgrades from Tesla Trapper",
+          "Added Gigawatt to beta tanks. Upgrades from Megawatt. Durr",
+          "Added Shock Trooper to beta tanks. Upgrades from Megawatt",
+          "Added Zapp Gun to beta tanks. Upgrades from Megawatt",
+          "Added Electrician to beta tanks. Upgrades from Tesla Trapper"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 24, 2022",
+        "name": "I'm adding tenks lel",
+        "content": [
+          "Decalibrator has been released and upgrades from Constructor and Giga-Trapper",
+          "Glitterbomb has been released and upgrades from Reliquary",
+          "Fixed a bug where Packer trap props would stare at people",
+          "Added Hotshot to beta tanks. upgrades from Obliterator",
+          "Added Hotliner to beta tanks. upgrades from Hotshot",
+          "Added Steamshot to beta tanks. upgrades from Hotshot and Steamroller",
+          "Added Planer to beta tanks. upgrades from Steamroller and Bulldozer",
+          "Added Sleet to beta tanks. upgrades from Obliterator",
+          "Added Tesla Trapper to beta tanks",
+          "Nerfed the recoil of the entire Obliterator branch",
+          "Nerfed the reload and bullet speed of Steamroller"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 23, 2022",
+        "name": "kill me",
+        "content": [
+          "Unkilled the game",
+          "Added Redistributer Ception to misc"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 23, 2022",
+        "name": "They see me rollin'",
+        "content": [
+          "Compounder has been released and upgrades from Computer and Poundbrid",
+          "Archivist has been released and upgrades from Compounder and Hybrid",
+          "Turing has been released and upgrades from Compounder and Megabyte",
+          "Firewall has been released and upgrades from Computer",
+          "Server has been released and upgrades from Computer and VIP",
+          "Mainframe has been released and upgrades from Server and Deluxe",
+          "Takeout has been released and upgrades from Packer",
+          "Nerfed Server drones",
+          "Added Obliterator to beta tanks",
+          "Added Bulldozer to beta tanks",
+          "Added Bobcat to beta tanks",
+          "Added Steamroller to beta tanks",
+          "Added Flattner to beta tanks",
+          "Added Decalibrator to beta tanks",
+          "Increased the space between Ascended Pentaquark's quarks",
+          "Moved Ascended Pentaquark to Dev Bosses"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 22, 2022",
+        "name": "dsdn",
+        "content": [
+          "Removed curtain animations",
+          "Added Pathfinding to dev spawned bosses with the F key",
+          "Removed some servers on some days"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 20, 2022",
+        "name": "Real game update",
+        "content": [
+          "Added nothing because y'all are ungrateful pieces of shit, fuck you"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 19, 2022",
+        "name": "Changing the game",
+        "content": [
+          "Increased the penetration of all objects to hopefully make collisions less bouncy",
+          "Nerfed all boss health heavily",
+          "Removed Mind Controller",
+          "Removed Trump",
+          "Removed Enigma",
+          "Removed EMP",
+          "Released Chiller, branches off Sniper",
+          "Released Paralyzer, branches off Chiller",
+          "Released Blizzard, branches off Chiller",
+          "Released Frostbite, branches off Chiller and Acid",
+          "Released Chillbrid, branches off Chiller",
+          "Released Overchill, branches off Chillbrid",
+          "Released Mortal Chill, branches off Chillbrid",
+          "Released Slipknot, branches off Triple Shot and Double",
+          "Released Frost Trapper, Branches off Trapper",
+          "Released Icebox, branches off Frost Trapper and Builder",
+          "Released Fabricator, Branched off Fighter and Triple",
+          "Released Taser, branches off Kinematic",
+          "Released Druid, branches off Magician",
+          "Released Dragon, branches off Fighter and Booster",
+          "Slightly buffed Flamethrower bullet health and damage",
+          "Slightly buffed Emplacement Block lifetime",
+          "Slightly buffed Gondola bullet speed and health",
+          "Slightly buffed Redistributor bullet speed",
+          "Redistributor's under trapezoid will now animate just before it shoots",
+          "Buffed Shrapnel missile health",
+          "Nerfed ICBM Explosion health",
+          "Nerfed Driller bullet speed and Penetration",
+          "Nerfed Foam Gun bullet reload",
+          "Slightly nerfed Courser reload",
+          "Slightly nerfed Matchlocks bullet speed and reload",
+          "Halfed Questers back thruster reload",
+          "Halfed Quadriatic Gust turret reload",
+          "Nerfed Arras done max speed",
+          "HEAVILY nerfed Treachery done health, damage, and max speed",
+          "Treachery now has 6 drones",
+          "Musketeer shoots one extra trap "
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 18, 2022",
+        "name": "I do things",
+        "content": [
+          "Briefcase has been released and upgrades from Mega Trapper and Packer",
+          "Wardrobe has been released and upgrades from Giga Trapper and Briefcase",
+          "Giftwrapper has been released and upgrades from Briefcase",
+          "Fungi has been released and upgrades from Multishot and Botanist",
+          "Auto-Director has been released and upgrades from Director",
+          "Rebellion has been released and upgrades from Auto-Director and Revolutionist",
+          "Solar System has been released and upgrades from Rebellion and Spawner",
+          "Added Glitterbomb to beta tanks",
+          "Added Firewall to beta tanks",
+          "Formed from a violent galaxy's dust around a sphere of everlasting fire, the Solar System Quark seems right at home!"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 17, 2022",
+        "name": "Shrinking ballz",
+        "content": [
+          "Shrank the rest of Hadron's Balls",
+          "Shrank the balls more",
+          "Nerfed mamba dust reload."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 17, 2022",
+        "name": "Ignore the quarks they are not an omen of doom",
+        "content": [
+          "Proton has been released an upgrades from Revolutionist",
+          "Hadron has been released an upgrades from Proton",
+          "Kilonova has been released an upgrades from Proton",
+          "Rho has been released an upgrades from Proton and Subverter",
+          "Dustbowl has been released an upgrades from Launcher, because of course it does",
+          "Mamba has been released an upgrades from Dustbowl",
+          "Desert Nuke has been released an upgrades from Dustbowl and Shrapnel",
+          "Tomb Raider has been released an upgrades from Dustbowl and Navyist",
+          "Sandbender has been banished to misc for lag reasons",
+          "Rammer has been released and upgrades from Pounder",
+          "Buffed Rammer and Desert Nuke",
+          "Fixed some upgrade tree issues",
+          "Added Briefcase to Beta Tanks",
+          "Added Wardrobe to Beta Tanks",
+          "Added Giftwrapper to Beta Tanks",
+          "Added Submachine to Beta Tanks",
+          "From a place where the stars are too dark to see, the Magnetar Quark emerges from the void!"
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "January 17, 2022",
+        "name": "Under the sea.",
+        "content": [
+          "Added Zephyr; upgrades from Hybrid Trapper and Flank Cruiser",
+          "Added Submarine; upgrades from Cruiser and Manager",
+          "Added Sonar; upgrades from Submarine and Battleship",
+          "Heavily nerfed Auto Turret bullet health",
+          "Heavily buffed Swarm Range",
+          "Nerfed bee range",
+          "Slightly buffed Grow Bullet penetration",
+          "Removed Gunner's buff in both range and bullet speed",
+          "Buffed Propeller and it's upgrades' bullet health and penetration",
+          "Nerfed Redistributor's reload by a small amount",
+          "Buffed Redistributor's recoil",
+          "Slightly buffed Double and it's upgrades' in general stats",
+          "Added Tooltips for certain Accelerator upgrades",
+          "Added Tooltips for Submarine upgrades",
+          "Added Woodpecker to Beta Tanks",
+          "Added Green Woodpecker to Beta Tanks",
+          "Added Submersible to Beta Tanks",
+          "Slightly changed Probationer and Apprentice's design",
+          "Oqv jx * giiuqw fou"
+        ]
+      },
+      {
+        "type": "Gamemode",
+        "date": "January 17, 2022",
+        "name": "Okay maybe you can it's kinda relaxing for me",
+        "content": [
+          "Fixed bugs with Naval Battle",
+          "Made portals and random colors more common"
+        ]
+      },
+      {
+        "type": "Gamemode",
+        "date": "January 17, 2022",
+        "name": "Don't get used to it.",
+        "content": [
+          "Fixed bots spawning in sandbox rooms that are closed",
+          "Removed Senior-Tester",
+          "Optimized server loading in the backend",
+          "Buffed German Aircraft Carriers",
+          "Naval Combat is back on the mode rotation",
+          "Certain servers have certain modes, to prevent duplicates",
+          "Added a new server for things like Boss Rush and Naval Combat",
+          "Fixed Boss Rush's display name",
+          "Made Maze modes have a 25% chance of happening (aside from other modifiers)"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 16, 2022",
+        "name": "I released 16 tanks in one update",
+        "content": [
+          "Malware has been released and upgrades from Computer",
+          "Ransomware has been released and upgrades from Malware",
+          "Malcontent has been released and upgrades from Malware",
+          "Brute Force has been released and upgrades from Malware and Megabyte",
+          "Mega-Trapper has been released and upgrades from Trapper",
+          "Giga-Trapper has been released and upgrades from Mega-Trapper",
+          "Tera-Trapper has been released and upgrades from Giga-Trapper",
+          "Packer has been released and upgrades from Trapper",
+          "Reliquary has been released and upgrades from Packer",
+          "Mailman has been released and upgrades from Packer and Builder",
+          "Package Bomb has been released and upgrades from Packer",
+          "Ricin has been released and upgrades from Package Bomb",
+          "Revolutionist has been released and upgrades from Auto-Basic",
+          "Subverter has been released and upgrades from Revolutionist",
+          "Deuteron has been released and upgrades from Subverter",
+          "Toolbelt has been released and upgrades from Subverter and Multitool",
+          "Added Takeout to Beta tanks",
+          "Added Rammer to Beta tanks",
+          "Added Solar System to Beta tanks",
+          "Formed in the death of a thousand squares, the Summoner Quark begins to leave its mark upon the world!",
+          "Summoner Fragment can now spawn in the Pentagon Nest"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 15, 2022",
+        "name": "Nevermind",
+        "content": [
+          "Fixed an issue where firing a pillbox as Engineer would create a paradox",
+          "Fixed an issue where Spike was defined twice"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 15, 2022",
+        "name": "Not completely incompetent",
+        "content": [
+          "Tesla has been released and upgrades from Smasher",
+          "Coil has been released and upgrades from Tesla",
+          "Mega Trapper and it's upgrades now all have incremental trap speed nerfs",
+          "Fixed the appearance of Revolutionist and its upgrades in the upgrade tree",
+          "Rebalanced a lot of revolutionist stuff",
+          "Added Ricin to beta tanks. Upgrades from Package Bomb. Chill out Zed I'll release it tommorow."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 15, 2022",
+        "name": "Why is mega trapper not ingame yet?",
+        "content": [
+          "Computer has been released and upgrades from Basebrid",
+          "Megabyte has been released and upgrades from Computer",
+          "Gigabyte has been released and upgrades from Megabyte",
+          "'Pewterbrid has been released and upgrades from Computer",
+          "Megabrid has been released and upgrades from 'Pewterbrid",
+          "Added Mega-Trapper to beta tanks",
+          "Added Giga-Trapper to beta tanks",
+          "Added Tera-Trapper to beta tanks",
+          "Added Packer to beta tanks",
+          "Added Reliquary to beta tanks",
+          "Added Mailman to beta tanks",
+          "Package Bomb now upgrades from Packer"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 14, 2022",
+        "name": "The Bron Jame",
+        "content": [
+          "Released Arsenal Guard, branches from Trap Guard and Arsenal",
+          "Released Navalist, branches from Navyist",
+          "Released Captian, branches from Navalist",
+          "Added Quester to beta",
+          "Added Druid to beta",
+          "Added Driller to beta",
+          "Added Drillgun to beta, branches from Driller",
+          "Added Exposer to beta, branches from Doxxer",
+          "Added Dragon to beta",
+          "Added Matchlock to beta",
+          "Added Foghorn to beta",
+          "Auto-Lancer now branches from Auto-Basic",
+          "👻 Spoopy Ghost 👻 now branches from Basebrid",
+          "Overdrive now branches from Overseer",
+          "Trailblazer now branches from Propeller",
+          "Flangle now branches from Trailblazer",
+          "Redesigned Scalpel",
+          "Just kidding didn't actually add Foghorn to beta get pranked",
+          "Buffed Lancer Damage",
+          "Nerfed Empowerment block tesla effect radius",
+          "Nerfed Puncher branch reload",
+          "Speedbump's Missile has a slightly longer delay before firing"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 13, 2022",
+        "name": "Nanite Cring",
+        "content": [
+          "Reduced the lifespan of all surgeon traps and studs",
+          "Nerfed the reload and lifespan of Nanite's drones",
+          "Computer drones now have a slight danger value",
+          "Added Server to beta tanks. Upgrades from Computer",
+          "Added Kilonova to beta tanks. Upgrades from Proton",
+          "Added Strangeliner to misc."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 13, 2022",
+        "name": "Who needs beta testers anyways?",
+        "content": [
+          "Completely rebalanced the entire Surgeon branch and then released it without any additional testing.",
+          "Surgeon upgrades from Trapper and Launcher",
+          "7 Surgeon upgrades were released. I can't be bothered to list em all",
+          "Added Megabyte to Beta tanks. Upgrades from Computer",
+          "Added Gigabyte to beta tanks. It's the dumbest looking tank ever",
+          "Added Malware to Beta tanks. Upgrades from Computer",
+          "Added Ransomware and Malcontent to Beta tanks. Upgrades from Malware",
+          "Added Brute Force to Beta Tanks. It upgrades from Malware and Megabyte"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 12, 2022",
+        "name": "Gamig but even harder",
+        "content": [
+          "Released Propellery, branches off spawner",
+          "Released Airport, branches off Propellery",
+          "Released Acidic Spawner, branches off Spawner",
+          "Added Embattlement to beta, branches from Emplacement",
+          "Added Empowerment to beta, branches from Emplacement",
+          "Renamed Thunderbolt to Lightningbolt",
+          "Haploid now branches from Diploid",
+          "Naturalistbrid now branches from Pelleter Hybrid",
+          "Kinematic now branches from Accelerator",
+          "Artillery now branches from Pounder",
+          "Cyanide now branches from Sniper Ception",
+          "Auto-Engineer now branches from Auto-Builder",
+          "Removed Akafuji rear indicators",
+          "Changed ICBM design so it doesn't look like a hybrid",
+          "Changed Trailblazer design to be consistent with Propeller",
+          "Navyist branch no longer has unique upgrade stats",
+          "Skimmer branch now has normal recoil",
+          "Removed spawn delay from Underseers",
+          "Buffed Oxyrrhexis bullet health",
+          "Buffed Gondola drone speed",
+          "Buffed Botanist damage",
+          "Buffed Superstorm damage",
+          "Buffed Multishot branch damage",
+          "Buffed Doxxer offensive stats",
+          "Increased Multishot branch bullet spread",
+          "Reduced Musketeer trap spread",
+          "Reduced Doxxer shudder",
+          "Increased Doxxer drone spead",
+          "Slightly nerfed Egg Prince swarm damage",
+          "Gave Quadriatic Gust stats",
+          "Nerfed Elite Skimmer missile health",
+          "Slightly increased the amount of points elite's are worth"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 12, 2022",
+        "name": "Multitwool is the wierdest tank name",
+        "content": [
+          "Multitool has been released and upgrades from Auto-3",
+          "Multitwool has been released and upgrades from Multitool",
+          "Everdeath has been released and upgrades from Multitool",
+          "Triple-2 has been released and upgrades from Twin-2",
+          "Triple-3 has been released and upgrades from Twin-3 and Triple-2",
+          "Hybrid Triplet has been released and upgrades from Triplet",
+          "Computer has been added to beta tanks",
+          "Software now upgrades from Computer"
+        ]
+      },
+      {
+        "type": "Gamemode",
+        "date": "January 12, 2022",
+        "name": "oh my god i'm dumb",
+        "content": [
+          "FINALLY fixed the world record ticket system not working on modded modes (Open, Maze)",
+          "Fixed the help menu looking fucked",
+          "Made the nest bigger",
+          "Decreased the amount of crashers and made them spawn less",
+          "FFA and TDM now have the chance to have portals in their generation",
+          "Made random colors in FFA more rare",
+          "Fixed maze not generating properly with non-square maps",
+          "Added a way to convert eroded mazes into strings",
+          "Added Duos to the rotation",
+          "Changed up gamemode rotation",
+          "Changed the way servers are loaded"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 11, 2022",
+        "name": "Gamig",
+        "content": [
+          "Fixed bug where resetting your tank carried over stats from the tank you previously were",
+          "Fixed bug where resetting from an invisible tank would make your tank have invisibility",
+          "Removed the knockback from Dominator heal bullets",
+          "Released Naturalist, branches off Pelleter",
+          "Added Doxxer to beta (BT note: I'm trying to make it level 45 now)",
+          "Added Redisplatterer to Misc",
+          "Coronavirus now also branches off Virus",
+          "Bonkmine now also branches off Landmine",
+          "Removed Overflow",
+          "Removed Black Ice",
+          "Buffed Sandman damage",
+          "Buffed Redistributor damage",
+          "Buffed Eggmancer damage",
+          "Buffed Gondola drone speed",
+          "Buffed Acidic Spawners acid damage",
+          "Nerfed Cyclone damage",
+          "Nerfed Clicker reload",
+          "Nerfed Dart (Green Crasher) damage",
+          "Slightly nerfed Screwgun damage "
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 11, 2022",
+        "name": "Unhots your fix",
+        "content": [
+          "Removed the hotfix category",
+          "Added AI to carriers",
+          "Bug fixes",
+          "Fixed the hotfix below not working",
+          "Added Scharnhorst to Misc. and buffed Schlieffen"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 11, 2022",
+        "name": "Hotfix 0.0.1",
+        "content": [
+          "Added a hotfix category to the changelog",
+          "Fixed styles on the changelog",
+          "Fixed the bot not fetching the ticket channel properly due to it not being cached"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 11, 2022",
+        "name": ":weary:",
+        "content": [
+          "Fixed multiple crashes",
+          "Added an easy way to regenerate map features such as obstacles and mazes",
+          "Fixed Tesla Crasher not actually working",
+          "Buffed Japanese and American Aircraft Carriers"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 11, 2022",
+        "name": "Clientside changes",
+        "content": [
+          "Added a way to detect AdBlockers, and annoying persistant messages if you have an AdBlocker ;)",
+          "Improved clientside performance",
+          "Fixed styling with the server selector",
+          "Added the mobile app tips to desktop as well"
+        ]
+      },
+      {
+        "type": "Gamemode",
+        "date": "January 10, 2022",
+        "name": "One of my favorites",
+        "content": [
+          "Added Multitool to Beta Tanks",
+          "Added Toolbelt to Beta Tanks",
+          "Added Everdeath to Beta Tanks",
+          "Added Tesla Crasher",
+          "Buffed Package Bomb",
+          "Delagged and nerfed Desert Temple some more",
+          "Buffed the danger value of Dominators"
+        ]
+      },
+      {
+        "type": "Gamemode",
+        "date": "January 10, 2022",
+        "name": "YEAH WELL IF YOU GET WITH HIS BROTHER YOU GOT YOURSELF A TAGTEAM OF AWESOMENESS",
+        "content": [
+          "Nerfed Spawner Dominator slightly",
+          "Reworked the map generation for Domination mode",
+          "Fixed bugs with maze generation in Domination",
+          "Added 8TDM support for Mothership, Tag and Kill Race",
+          "Nerfed Mothership body stats",
+          "Made the maze in tag more dense"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 10, 2022",
+        "name": "Meta Changes",
+        "content": [
+          "Added Steamboat, upgrades from Propeller",
+          "Buffed Swarm reload",
+          "Buffed Drone damage",
+          "Buffed Trap duration",
+          "Nerfed Turret reload",
+          "Nerfed Clone health",
+          "Buffed Propeller and it's upgrades in general stats",
+          "Buffed Grow bullet damage",
+          "Slightly nerfed Pelleter and it's upgrades",
+          "Nerfed Gunner's bullet damage",
+          "Moved Particle accelerator to misc",
+          "Added a new Developer and Senior upgrade",
+          "Added Putt-Putt to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 9, 2022",
+        "name": "Go ahead. Play boss rush. I dare you.",
+        "content": [
+          "Delagged Desert Temple",
+          "Buffed Desert Temple",
+          "Desert Temple now spawns in boss rush",
+          "Cyanide has been released and upgrades from Auto-Acid",
+          "Toxin and Chlorine now have Acid Aura"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 9, 2022",
+        "name": "Serious work",
+        "content": [
+          "Fixed home screen input bugs",
+          "Fixed the slider menu",
+          "Fixed the wiki naming"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 9, 2022",
+        "name": "I made a boss lol",
+        "content": [
+          "Careener has been released and upgrades from Bonker",
+          "Bonkmine has been released and upgrades from Bonker and Landmine",
+          "Added Package Bomb to beta tanks",
+          "Nerfed the main cannon of Subverter, Dueteron, and Hadron",
+          "Shrank Hadron's balls",
+          "Added Desert Temple to the beta boss branch"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 8, 2022",
+        "name": "BEGONE FELL BEAST",
+        "content": [
+          "Pentaquark has been banished to the dark realm of the netherworld, where there shall be weeping and the gnashing of teeth",
+          "Hadron has been hired to replace Pentaquark",
+          "Added Cyanide to beta tanks",
+          "Nerfed the damage of Subverter and Deuteron turrets",
+          "Added Rho Sentry",
+          "Pentaquark has already escaped from hell. He just walked past the guards, they couldn't do shit.",
+          "Don't let him find you."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 8, 2022",
+        "name": "DAS BOOT!!!!",
+        "content": [
+          "Fixed the class tree",
+          "Fixed a major rendering bug with Nukes, Flails and other big things when they fade",
+          "The title hints at what was introduced..."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 8, 2022",
+        "name": "Join the rebellion!",
+        "content": [
+          "Added Revolutionist to Beta tanks",
+          "Added Subverter to Beta tanks",
+          "Added Deuteron to Beta tanks",
+          "Added Proton to Beta tanks",
+          "Added Pentaquark to Beta tanks",
+          "Added Rho to Beta tanks",
+          "Buffed the homing bullet speed of Frier",
+          "Rebalanced Surgeon a bit",
+          "Released Heat Hive, upgrades from Mini-swarmer",
+          "Released Toaster, upgrades from Heat Hive",
+          "Released Frier, upgrades from Heat Hive",
+          "Released Hotman, upgrades from Heat Hive and Swarmer",
+          "Released Metaseeker, upgrades from Heat Hive",
+          "Released Auto-Acid, upgrades from Acid"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 8, 2022",
+        "name": "Giving it a purpose",
+        "content": [
+          "Fixed players on the TEAL team being yellow",
+          "Nerfed Myriapoda's small bullets as to not have them at the same strength as Arthropoda",
+          "Fixed some bugs with teams",
+          "Fixed some bugs in general",
+          "Fixed the AFK timeout murdering you",
+          "Fixed TDM modes never having bases",
+          "Open TDM modes are now more common (25% instead of 10%)",
+          "Fixed maze alignment in TDM and FFA modes",
+          "Made standard rooms 16x16 cells",
+          "Tag now has a 16x16 maze",
+          "Tripled nest food amount",
+          "It's now much harder to get stuck inside walls",
+          "As a result of the proper maze collision, backshield no longer launches you 50 feet away from walls",
+          "Nerfed hiveminds",
+          "Rewrote the room object",
+          "Massive optimizations",
+          "Started experimenting with Space mode again",
+          "Rewrote a lot of math so that it's not so computationally heavy",
+          "General optimizations to bandwidth and mockups",
+          "Fixed Lancer and Flail collisions while invulnerable"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 7, 2022",
+        "name": "Killing your favorite tanks since 2021",
+        "content": [
+          "Released Splatterer, branches off Gleamer",
+          "Released Hybrid Trapper, branches off Basebrid and Trapper",
+          "Released Magician, branches off Hybrid Trapper",
+          "Released Witch, branches off Magician",
+          "Released Juggernaut, branches off Overlord",
+          "Released Suzerain, branches off Overlord",
+          "Released Thunderbolt, branches off Lightning",
+          "Arras now branches from Phaser and Sidewinder instead of Navyist",
+          "Slightly nerfed hivemind minion health",
+          "Slightly nerfed auto turrets",
+          "Nerfed Gust damage stats",
+          "Nerfed Punt Gun recoil",
+          "Nerfed Decimator recoil",
+          "Nerfed Ranger reload"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 7, 2022",
+        "name": "I hate sand",
+        "content": [
+          "Smashception has been released and upgrades from Smasher",
+          "Mineception has been released and upgrades from Landmine and Smashception",
+          "Spikeception has been released and upgrades from Spike and Smashception",
+          "Coiffure has been released and upgrades from Smashception",
+          "Nightgaunt has been released and upgrades from Landmine",
+          "Added Sandbender to Beta tanks",
+          "Added Mamba to Beta tanks",
+          "Added Desert Nuke to Beta tanks",
+          "Added Tomb Raider to Beta tanks",
+          "Nerfed the reload of Surgeon and Nanite some more"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 7, 2022",
+        "name": ". this update was really painful .",
+        "content": [
+          "Reworked Maze Generation",
+          "Fixed Maze Wall scaling",
+          "Fixed Maze Wall grouping",
+          "Optimizations to entities",
+          "Optimizations to bandwidth",
+          "Fixed the AFK timeout"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 7, 2022",
+        "name": "I'll teach Gust a lesson",
+        "content": [
+          "Nerfed Gust's bullet damage by a ton",
+          "Slightly nerfed pelleter and it's upgrades",
+          "Fixed some branch issues",
+          "Nerfed dustbowl's reload",
+          "Fixed particle accelerator's delay",
+          "Doubled Particle Accelerator's explosion health",
+          "Added Apprentice to Beta Tanks",
+          "Added Overload to Beta Tanks",
+          "Added Submarine to Beta Tanks",
+          "Added Sonar to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 6, 2022",
+        "name": "Acidmaggendon",
+        "content": [
+          "Acid has been released and upgrades from Sniper",
+          "Mercury has been released and upgrades from Acid",
+          "Disintegrator has been released and upgrades from Acid",
+          "Formaldehyde has been released and upgrades from Acid and Minigun",
+          "Saltsower has been released and upgrades from Formaldehyde and Cropduster",
+          "Chlorine has been released and upgrades from Formaldehyde and Streamliner",
+          "Iocane has been released and upgrades from Formaldehyde",
+          "Smoker has been released and upgrades from Acid and Fume",
+          "Acid Trapper has been released and upgrades from Trapper",
+          "Biologist has been released and upgrades from Acid Trapper and Dual Trapper",
+          "Biocontainment has been released and upgrades from Biologist, Formaldehyde, and Barricade",
+          "Rat poison has been released and upgrades from Acid Trapper and builder",
+          "Coronavirus has been released and upgrades from Acid Trapper and Virus",
+          "Added Ryzen to beta tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 6, 2022",
+        "name": "No school tomorrow yay",
+        "content": [
+          "Reworked maze generation slightly",
+          "Nerfed Taser",
+          "Buffed body stats",
+          "Buffed Sentries",
+          "Nerfed Crashers",
+          "Buffed Banshee's turret and body FOV",
+          "Nerfed Meta drones",
+          "Nerfed the Auto-2 Branch",
+          "Banshee now branches off of Auto-3",
+          "Started experimenting with the Maze Portal TDM mode"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 6, 2022",
+        "name": "I'm double alive I promise",
+        "content": [
+          "Added Deluxe which upgrades from VIP",
+          "Added Overluxe which upgrades from Deluxe",
+          "Buffed Punt gun and it's upgrades",
+          "Nerfed Gust",
+          "Buffed Swarm reload again",
+          "Man O' War now has a tool tip to shoot with right click",
+          "Added Dustbowl to Beta Tanks",
+          "Added Software to Beta Tanks",
+          "Added Probationer to Beta Tanks",
+          "Buffed Particle Accelerator's reload by a ton",
+          "Particle Accelerator now shoots a Particle with right click"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 6, 2022",
+        "name": "I'm still alive I promise",
+        "content": [
+          "Rebalanced Man O' War and it's upgrades",
+          "Buffed Swarm reload",
+          "Buffed Flank and it's upgrades",
+          "Buffed Swarm Guard and it's upgrades",
+          "Added Particle Accelerator to Beta Tanks",
+          "Added Steamboat to Beta Tanks",
+          "Added Fabricator to Beta Tanks",
+          "Added Zephyr to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 5, 2022",
+        "name": "Never start a land war in Asia!",
+        "content": [
+          "Grudge has been redecorated",
+          "Nerfed the reload and bulled damage of Grudge",
+          "Buffed the smackiness of Grudge's flails",
+          "Nerfed the bullet health and damage of all acid snipers",
+          "Nerfed the reload of Surgeon and Nanite",
+          "Nerfed all surgeon studs a tiny bit",
+          "Made Trios and Sandbox less common",
+          "Pasted in some code that zed gave me idk wat it does",
+          "Added Nightgaunt to beta tanks",
+          "Added Iocane to beta tanks. It upgrades from Formaldehyde"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 4, 2022",
+        "name": "Vengeance!",
+        "content": [
+          "Buzzsaw has been released and upgrades from Spike",
+          "Toxin has been released and upgrades from Spike",
+          "Gigasmasher has been released and upgrades from Megasmasher",
+          "Coiffure has recieved a damage buff",
+          "Added Bonkmine to beta tanks",
+          "Added Grudge to beta tanks",
+          "Added Sandman to misc"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 4, 2022",
+        "name": "I hate Glitch's new editor",
+        "content": [
+          "Buffed body stats",
+          "Fixed branch errors with the class tree",
+          "Fixed not being able to spectate other players in Groups modes",
+          "Fixed the 'seeInvisible' aiSetting property not working",
+          "Smasher Closer can no longer spawn",
+          "Fixed team balancing, teams will now attempt to have the same amount of bots and players on them",
+          "Deceased players now count towards a team's player count, preventing people from dying and allowing 50 bots on a team",
+          "Reworked maze generation"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 4, 2022",
+        "name": "Spencer release shit",
+        "content": [
+          "Released Dogfighter, branches off Fighter",
+          "Released Trappory, branches off Spawner",
+          "Released Contagiory, branches off Trappory",
+          "Added Hybrid Trapper to beta",
+          "Added Magician to beta, branches off Hybrid Trapper",
+          "Added Witch to beta, branches off Magician",
+          "Overtrapper now also branches off Hybrid Trapper",
+          "Nerfed Swarmer class reload",
+          "Nerfed Screwgun penetration",
+          "Buffed hive reload",
+          "Buffed Pelleter damage",
+          "Reduced Musketeer spread"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 3, 2022",
+        "name": "Topping off all the smasher branches",
+        "content": [
+          "Decimator has been released and upgrades from Annihilator",
+          "Cropduster has been released and upgrades from Minigun",
+          "Hyliner has been released and upgrades from Cropduster and Streamliner",
+          "Flailception has been released and upgrades from Auto-Flail",
+          "Bulwark has been released and upgrades from Trapper Flank",
+          "Smashception and Coiffure have recieved a large buff to health and body damage",
+          "Nerfed the speed of Bonker and Careener slightly",
+          "Added Spikeception to beta tanks",
+          "Added Mineception to beta tanks",
+          "Added Buzzsaw to beta tanks",
+          "Added Toxin to beta tanks",
+          "Added Gigasmasher to beta tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 3, 2022",
+        "name": "I'm not original",
+        "content": [
+          "Added Fungi to Beta",
+          "Added Trappory to Beta",
+          "Added Contagiory to Beta, branches off Trappory",
+          "Added Propellery to Beta",
+          "Added Airport to Beta, branches off Propellery",
+          "Added Navalist to Beta",
+          "Added Captain to Beta, branches off Navalist",
+          "Nerfed Ranger reload",
+          "Nerfed Tri-Angle branch thruster damage",
+          "Buffed Punt Gun offensive stats",
+          "Buffed Bandolier offensive stats",
+          "Nerfed the bullet size of Oxyrrhexis by one trillionth of one percent"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 2, 2022",
+        "name": "The biggest and the smallest",
+        "content": [
+          "Oxyrrhexis has been released and upgrades from Annihilator and Astronaut",
+          "Ragnar has been released and upgrades from Ranger and Gunner Trapper",
+          "Auto-Engineer has been released and upgrades from Engineer",
+          "Hybrid Engineer has been released and upgrades from Engineer",
+          "Added Careener to Beta tanks",
+          "Added Smashception to Beta tanks",
+          "Added Coiffure to Beta tanks",
+          "Added Flail Ception to Beta tanks",
+          "Nerfed the acid of the Formadehyde branch",
+          "Nerfed the bullet size of Oxyrrhexis by one billionth of one percent"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 2, 2022",
+        "name": "Oxy is less OP now",
+        "content": [
+          "Added Saltsower to Beta tanks",
+          "Added Metaseeker to Beta tanks",
+          "Nerfed Oxy reload, damage, and bullet health",
+          "Nerfed Surgeon stud damage and health by 30%",
+          "Zamboni now upgrades from Rifle at lvl 60",
+          "Poison Dart has been banished to Misc untill I can fix it",
+          "Deliverance has been renamed to Medkit"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 1, 2022",
+        "name": "New year new tonkz",
+        "content": [
+          "Added Suzerain to Beta",
+          "Added Overflow to Beta",
+          "Added Juggernaut to Beta",
+          "Added Thunderbolt to Beta",
+          "Buffed Gondola drone speed",
+          "Buffed Emplacement swarm reload",
+          "Nerfed Decimator speed",
+          "Nerfed Splatterer ring damage",
+          "Slightly nerfed Gleamer jump reload",
+          "Nerfed Acidic Spawner's minion acid damage "
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 1, 2022",
+        "name": "New year new tonkz",
+        "content": [
+          "Man O' War has been released and upgrades from Tri-Angle and Pounder",
+          "Jellyfish has been released and upgrades from Man O' War and Swarmer",
+          "Warfare has been released and upgrades from Man O' War and Fighter",
+          "Betelguese has been released and upgrades from Man O' War and Gleamer",
+          "Ambassador has been released and upgrades from Man O' War and Destroyer",
+          "Fume has been released and upgrades from Sniper and Inferno",
+          "Zamboni has been released and upgrades from Fume",
+          "Fumigator has been released and upgrades from Fume",
+          "Dual Trapper has been released and upgrades from Trapper",
+          "Barricade has been released and upgrades from Dual Trapper and Minigun",
+          "Deluge, Bridicade, and Auto-Barricade have been released and upgrade from Barricade",
+          "Cat O' Nine Tails has been released and upgrades from Marner",
+          "Bushwhacker has been released and upgrades from Sniper and Trap Guard",
+          "Warden and Hybrid Ranger have been released and upgrade from Ranger",
+          "Megaswarmer has been released and upgrades from Swarmer",
+          "Smotherer has been released and upgrades from Streamliner",
+          "Smotherer has been mildly nerfed"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "January 1, 2022",
+        "name": "HAPPY NEW YEAR!!!",
+        "content": [
+          "Surgeon has been altered to better match its old design",
+          "Heat Hive has been adjusted to better match Sharpener",
+          "Added Treppaner to beta tanks",
+          "Added Scalpel to beta tanks",
+          "Added Deliverance to beta tanks",
+          "Added Fungalmancer to beta tanks",
+          "Added EMT to beta tanks",
+          "Added Toaster to beta tanks",
+          "Added Frier to beta tanks",
+          "Added Hotman to beta tanks",
+          "Added Manipulator to beta tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 31, 2021",
+        "name": "Happy new year",
+        "content": [
+          "Fixed bugs with the new protocol",
+          "Optimized bandwidth usage",
+          "Added a bandwidth monitor to the debug menu",
+          "Nerfed sentries a lot, fixing a mistake that caused them to be OP",
+          "Made the map bigger",
+          "Redid gamemode shuffling",
+          "FFA has a 20% chance of having random colors"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 31, 2021",
+        "name": "No there isn't I killed the doctor.",
+        "content": [
+          "You now respawn with a portion of your score",
+          "You have a chance of spawning from a factory in TDM modes",
+          "Optimized drones and fixed balancing issues with the Moderator and Maleficitor tanks",
+          "Nerfed drone damage and speed slightly",
+          "Rebalanced Maleficitor",
+          "Nerfed the Underseer branch",
+          "Nerfed Snipers",
+          "Nerfed Tri-Angle branch front guns",
+          "Buffed and released Vulcan, branches off of Gunner",
+          "Rebalanced Sentries",
+          "Fixed Artificialist's design",
+          "Disabling Fancy Animations now also improves the frame rate"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 31, 2021",
+        "name": "Is there a doctor in the house?",
+        "content": [
+          "Reverted Warden reload",
+          "Nerfed Man O' War branch side bullet damage",
+          "Added Surgeon to Beta Tanks",
+          "Added Nanite to Beta tanks",
+          "Added Heat Hive to Beta tanks",
+          "Added Studlayer to misc for later use"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 30, 2021",
+        "name": "Warm butter",
+        "content": [
+          "Added Cropduster to Beta",
+          "Added Hyliner to Beta, branches off Cropduster",
+          "Added Bridicade to Beta, branches off Cropduster and Barricade",
+          "Added Auto-Barricade, branches off Barricade",
+          "Added Splatterer to Beta"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 30, 2021",
+        "name": "The time has come my fellow deciples!",
+        "content": [
+          "Added Oxyrrhexis to Beta Tanks",
+          "I would say it's as OP as it used to be, except it's actually way, WAY more OP",
+          "Added Chlorine to Beta Tanks",
+          "Added tooltip to Poison Dart"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 30, 2021",
+        "name": "NEPH YOU FUCKING SUCK AT CODING",
+        "content": [
+          "Fixed AI"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 30, 2021",
+        "name": "just a quicky (:lenny:)",
+        "content": [
+          "Reworked how mockups are loaded"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 29, 2021",
+        "name": "Why do I work full time",
+        "content": [
+          "Buffed Warden reload",
+          "Nerfed reload of all Formaldehyde tanks",
+          "Added Smotherer to Beta Tanks",
+          "Added Rat Poison to Beta Tanks",
+          "Added Icebox to Beta Tanks",
+          "Added Poison Dart to Beta Tanks. it's kinda broke but I'll deal with that later lol",
+          "I also added acid streamliner but I forgot to add upgrade path. Sorry no time lol goodnight."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 29, 2021",
+        "name": "Yes, am lazy",
+        "content": [
+          "Added Auto-Engineer to Beta",
+          "Added Hybrid Engineer to Beta",
+          "Added Frost Trapper to Beta",
+          "Added Black Ice to Beta, branches off Frost Trapper",
+          "Added Avalanche to Beta, branches off Barricade",
+          "Added Pergola to Beta, Branches off Gondola",
+          "Added Hybrid Ranger to Beta",
+          "Nerfed Barricade reload"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 29, 2021",
+        "name": "SJGIHIUFHEGHE IAHDGOFHO AEIIFH ",
+        "content": [
+          "Staff, Resigned Staff and Former Developers can join the #c (Closed Beta) server with a token from the $c claim command",
+          "Added Single to Beta Tanks",
+          "Added Twingle, branches off of Single",
+          "Added Mingle, branches off of Single",
+          "I'll be taking some time off, due to how hard it was to name these tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 29, 2021",
+        "name": "AAAAHHHHHH",
+        "content": [
+          "Reworked and rebalanced status effects",
+          "Added EMP effect, stops you from shooting for a period of time",
+          "Added Tesla effect, deals damage to you if you get close to it",
+          "Added EMP to Beta Tanks",
+          "Added Tesla to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 29, 2021",
+        "name": "OK SO LISTEN UP FUCKERS",
+        "content": [
+          "Double Whammy is no longer a Beta Tank and now branches off of Reacher and Marner",
+          "Reworked all stats to make the game more balanced",
+          "Fixed bullets having too much variation and spread",
+          "Changed the map in #c"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 28, 2021",
+        "name": "How did I get here",
+        "content": [
+          "Added Emplacement to Beta",
+          "Added Enforcement to Beta, branches off Emplacement",
+          "Cried",
+          "Renamed Obliterator to Decimator",
+          "Nerfed Decimator bullet speed, health, and penetration",
+          "Nerfed Mega Swarmer reload",
+          "Nerfed Gondola drone speed",
+          "Fixed a visual issue with Artificialist"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 28, 2021",
+        "name": "Pain",
+        "content": [
+          "Buffed Fume backflares",
+          "Added Warden to Beta Tanks",
+          "Added Chillbrid to Beta Tanks",
+          "Added Overchill to Beta Tanks",
+          "Added Mortal Chill to Beta Tanks",
+          "Added Formaldehyde to Beta Tanks",
+          "Added Biocontainment to Beta Tanks",
+          "Added Double Whammy to Beta Tanks",
+          "Added Cat O' Nine Tails to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 28, 2021",
+        "name": "We've had a disappointingly low amount of snow this year... :(",
+        "content": [
+          "Buffed Twister's mini bullets while nerfing it's main bullet",
+          "Buffed Rocketeer",
+          "Gave Twister a tooltip for its special ability",
+          "Added Ordnance, branches off of Artillery",
+          "Added Beekeeper, branches off of Hunter and Artillery",
+          "Nerfed Sentries",
+          "Added Caltrop, branches off of Quad Trapper and Builder",
+          "Added Gunner Cruiser, branches off of Cruiser and Gunner",
+          "Added Bonker, branches off of Smasher",
+          "Added Fortress, branches off of Quad Trapper and Cruiser",
+          "Added Palisade, branches off of Spawner and Quad Trapper",
+          "Bullet bots no longer upgrade to Smasher and Lancer",
+          "Added custom Lancer AI",
+          "Inferno is no longer a Beta Tank and branches off of Machine Gun and Sniper",
+          "Sharpener is no longer a Beta Tank and branches off of Twister",
+          "Hybrado is no longer a Beta Tank and branches off of Cruiser",
+          "Gridlock is no longer a Beta Tank and branches off of Necromancer",
+          "Musketeer is no longer a Beta Tank and branches off of Multishot and Trapper",
+          "Rimfire is no longer a Beta Tank and branches off of Gunner"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 27, 2021",
+        "name": "Back at it again",
+        "content": [
+          "Added Dual Trapper to Beta",
+          "Added Deluge to Beta, branches off Barricade",
+          "Added Obliterator to Beta",
+          "Nerfed Bomb Reload",
+          "Nerfed Bomb Damage",
+          "Buffed Bomb shrapnel damage",
+          "Increased Nuclear Bomb bullet size",
+          "Rotated the indicator for Acid Traps"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 27, 2021",
+        "name": "2020 be like",
+        "content": [
+          "Zamboni is now a Rifle like its original design",
+          "Added Fumigator to Beta Tanks",
+          "Added Acid Trapper to Beta Tanks",
+          "Added Coronovirus to Beta Tanks",
+          "Added Cryobomb to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 27, 2021",
+        "name": "Hi",
+        "content": [
+          "You now flash when you're invulnerable",
+          "You now get invulnerability for 30 seconds when exiting a portal",
+          "When you spawn, you get invulnerability for 60 seconds",
+          "Fixed bugs with portals",
+          "Added Vulcan to Beta Tanks",
+          "Added Taser to Beta Tanks",
+          "Added Rimfire to Beta Tanks",
+          "Added Barricade to Beta Tanks",
+          "Added Bulwark to Beta Tanks",
+          "Added Bushwhacker to Beta Tanks",
+          "Added Constructor, branches off of Builder",
+          "Added Conqueror, branches off of Builder",
+          "Added Cyclone, branches off of Gunner and Hexa",
+          "Added an experimental Tank Editor for Developers only, this allows us to edit tanks and balance things on the fly without having to restart the server"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 27, 2021",
+        "name": ":)",
+        "content": [
+          "The player cap for sandbox mode is now 35",
+          "The default player cap is now 20",
+          "Optimized AI and controllers",
+          "Optimized loops",
+          "Optimized socket stuff",
+          "Added tank recovery, if you disconnect, reconnect quickly to get your tank back!",
+          "Boss Rush waves are organized by amount and difficulty",
+          "Made Boss Rush more fun (more bosses)"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 26, 2021",
+        "name": "Fumin'",
+        "content": [
+          "Added Fume to Beta Tanks",
+          "Added Smoker to Beta Tanks",
+          "Added Zamboni to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 26, 2021",
+        "name": "So you may have noticed....",
+        "content": [
+          "Reworked how servers are loaded.",
+          "All Heroku hosted servers now have a schedule, which means that two days a week, they will not be accessible, this will mean we won't lose servers at the end of the month",
+          "Added a #c server for my experimenting, this is only public when I want it to be"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 25, 2021",
+        "name": "Merry Christmas to all, and to all a good fight",
+        "content": [
+          "Added Man O' War to Beta Tanks",
+          "Added Ambassador to Beta Tanks",
+          "Added Jellyfish to Beta Tanks",
+          "Added Betelguese to Beta Tanks",
+          "Added Warfare to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 25, 2021",
+        "name": "So Winter Rush was too easy, in my opinion",
+        "content": [
+          "Buffed the base Health of Eternals",
+          "Buffed Thor",
+          "Buffed and reworked Nyx",
+          "Buffed Oceanus",
+          "Made some of the later waves harder in Boss Rush",
+          "Attempted to rework boss orbiting",
+          "Fixed boss aiming in Boss Rush when they are moving to waypoints",
+          "Bots are more brave",
+          "Sentries are now targeted by AI with priority over Polygons",
+          "Nerfed Polygon pushability",
+          "Nerfed Lancers due to them being so fucking busted",
+          "Rebalanced Traps and Minion density/pushability",
+          "Made the Upgrade menu smaller",
+          "Added Machine Gunner, branches off of Gunner and Artillery",
+          "Minishot now branches off of Basic",
+          "Lancer now branches off of Basic",
+          "Moved Winter Rush to #ha"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 24, 2021",
+        "name": "Before I go",
+        "content": [
+          "Released Gleamer, branches off Tri-Angle",
+          "Released Pulsejet, branches off Gleamer",
+          "Released Jabber, branches off Puncher",
+          "Released Elamnecro, branches off Necromancer",
+          "Released Heavy Shotgun, branches off Shotgun",
+          "Slightly increased Shotgun bullet spread"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 24, 2021",
+        "name": "Merry Christmas everyone I hope you know you're appreciated!",
+        "content": [
+          "Reworked the map in Boss Rush",
+          "Reworked boss spawning mechanics in Boss Rush",
+          "Gave bosses better AI in Boss Rush",
+          "Bots now attempt to defend sanctuaries in Boss Rush",
+          "AI Captured Sanctuaries no longer fight back",
+          "Played around with body damage and health for weapons and bosses",
+          "Nerfed Sentries and Nest Defenders",
+          "Added Nyx, a new Eternal",
+          "Added Pontus, a new Celestial",
+          "Added Hades, a new Celestial",
+          "Rebalanced Dominator body stats",
+          "Fixed message clogging"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 23, 2021",
+        "name": "I'm dev now what",
+        "content": [
+          "Added Bloodcurdler to beta tanks. It upgrades from Marner and Mace",
+          "That's it lol"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 23, 2021",
+        "name": "I'm z46, not Oblivion",
+        "content": [
+          "Added a /help page, this also includes instructions on how to install the game as an app",
+          "Fixed issues with Demeter's top turrets",
+          "Buffed body damage and nerfed health",
+          "Added Turkey",
+          "Removed part of the map of Boss Rush",
+          "Gave Dominators in Boss Rush healing turrets",
+          "Fixed bugs with healing bullets making your health go really high",
+          "Buffed Crashers",
+          "Nerfed Sentries and Nest Defenders",
+          "Added a Server Overloaded feature if the servers get too stressed out",
+          "The server speed is now measured in mspt (Ms per tick)",
+          "Heavy entity optimizations"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 23, 2021",
+        "name": "Rebranding",
+        "content": [
+          "Woomy is being renamed to Tanon.io.",
+          "This is because we love Tanks and Kannon."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 23, 2021",
+        "name": "SOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+        "content": [
+          "Sterilizer is now spawnable in Boss Rush",
+          "All the Eternals are now possible final Bosses in Boss Rush",
+          "You only get one final boss, instead of all of them. Fixed the minimap in sandbox mode"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 23, 2021",
+        "name": "Things that should just exist",
+        "content": [
+          "Added Penta Machine to Beta",
+          "Added Mega Swarmer to Beta",
+          "Added Jabber to Beta",
+          "Added Elamnecro to Beta",
+          "Added Gondola to Beta",
+          "Slightly nerfed Aggressor reload",
+          "Buffed Underseer reload",
+          "Underseer classes no longer have recoil",
+          "Engineer now also branches off Arsenal"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 23, 2021",
+        "name": "WERQYT",
+        "content": [
+          "Added Mythical Crasher",
+          "Added Hellbringer",
+          "Added Tetraplex",
+          "Moved some bosses to Developer Bosses"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 22, 2021",
+        "name": "The World Serpent",
+        "content": [
+          "Added Jörmungandr, snake-like boss that circles and then stabs you with flails."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 22, 2021",
+        "name": "GUESS WHO'S BACK",
+        "content": [
+          "Added Dogatorix",
+          "Gave Dogatorix Permissions for Abuse"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 20, 2021",
+        "name": "OH MY GOD",
+        "content": [
+          "Added Legendary Crasher",
+          "Added Sacred Crasher",
+          "Added Legendary Quadral Machine",
+          "Added Catalyst",
+          "Added EK-6",
+          "Added Sun King",
+          "Added Hexadecimator",
+          "Added Heptadecimator"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 20, 2021",
+        "name": "AUGH",
+        "content": [
+          "Boss Rush has been updated with more, rare and powerful bosses. As a surprise, I won't tell you what they are yet :)"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 20, 2021",
+        "name": "Smash me daddy",
+        "content": [
+          "Nerfed Smasher",
+          "Added Spike, branches off of Smasher",
+          "Added Mega Smasher, branches off of Smasher",
+          "Added Landmine, branches off of Smasher",
+          "Added Ninja Star, branches off of Smasher",
+          "Added Auto-Smasher, branches off of Smasher"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 19, 2021",
+        "name": "AEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+        "content": [
+          "Fixed bugs with and balanced Lancer, and moved it to Beta Tanks",
+          "Added Flail, branches off of Lancer",
+          "*inhales*",
+          "Added Marner, branches off of Flail",
+          "Added Mace, branches off of Flail",
+          "Added Reacher, branches off of Flail",
+          "Added Flangle, branches off of Flail",
+          "Added Auto-Flail, branches off of Flail",
+          "Added Nossle, branches off of Mace",
+          "Added HongKongLongDong, branches off of Reacher",
+          "Added Windmill, branches off of Marner",
+          "Added Fidget Spinner, branches off of Marner",
+          "Added Akafuji, branches off of Lancer",
+          "Added Saboten, branches off of Akafuji",
+          "Added Vessle, branches off of Akafuji",
+          "Added Slipknot to Beta Tanks",
+          "Added Ragnar to Beta Tanks",
+          "Tooltips are now more accurate for mobile users, stating to Double Tap rather than Right-Click",
+          "Reverted #wa to Sandbox mode"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 19, 2021",
+        "name": "Fast things go brr",
+        "content": [
+          "Added Pulsejet to Beta Tanks, branches off Gleamer",
+          "Added Dogfighter to Beta Tanks",
+          "Nerfed Arsenal",
+          "Nerfed Musketeer",
+          "Increased multishot branches spread",
+          "Increased multishot branches reload",
+          "Buffed Gleamer jump",
+          "Beta Tanks now automatically go to tier 5"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 18, 2021",
+        "name": "So you're qualified for this job? Yes I just got out of Yale. That's great! Oh yeah your wife has a huge rack man. HEY!! HEY MAN LEARN TO TAKE A YOKE!!!",
+        "content": [
+          "Fixed issues with Arena Closing in Sandbox mode",
+          "Readded Infection to the gamemode randomizer",
+          "The #wa server can now be any gamemode",
+          "Various Beta Tank balance changes",
+          "Added Mercury, branches off of Acid",
+          "Added Paralyzer, branches off of Chiller",
+          "Added Blizzard, branches off of Chiller",
+          "Added Frostbite, branches off of Acid and Chiller"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 18, 2021",
+        "name": "12/18/21 or something idfk",
+        "content": [
+          "Added Foam Gun to Beta Tanks",
+          "Added Bubble Gun, branches off of Foam Gun",
+          "Added Sponge, branches off of Bubble Gun",
+          "Added Corroder, branches off of Bubble Gun",
+          "Added Bomb, branches off of Foam Gun",
+          "Added Nuclear Bomb, branches off of Bomb",
+          "Added Sparkler, branches off of Foam Gun",
+          "Added Crackler, branches off of Sparkler",
+          "Added Flamethrower, branches off of Foam Gun",
+          "Added Courser, branches off of Flamethrower",
+          "Buffed the drone count of the Manager branch to 8"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 17, 2021",
+        "name": "lmao I do my job",
+        "content": [
+          "Reworked Sharpener",
+          "Buffed Inferno",
+          "Motor is no longer a Beta Tank and upgrades off of Director",
+          "Manager is no longer a Beta Tank and upgrades off of Director",
+          "Maleficitor is no longer a Beta Tank and upgrades off of Underseer",
+          "Bent Boomber is no longer a Beta Tank and upgrades off of Boomer",
+          "Redistributor is no longer a Beta Tank and upgrades off of Annihilator",
+          "Scaler is no longer a Beta Tank and upgrades off of Rifle and Spreadling",
+          "Added Scattergun, branches off of Spreadshot",
+          "Added Heptashot, branches off of Pentashot",
+          "Added Acid, Chiller and Desintegrator to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 17, 2021",
+        "name": "Whatever, *Un-betas your beta things*",
+        "content": [
+          "Blaster is no longer a Beta Tank, and upgrades off of Machine",
+          "Heptatrapper is no longer a Beta Tank, and upgrades off of Quad Trapper",
+          "Zeppelin is no longer a Beta Tank, and upgrades off of Basicception",
+          "Basic Ceptionist is no longer a Beta Tank, and upgrades off of Basic",
+          "Smasher is no longer a Beta Tank, and upgrades off of Basic"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 14, 2021",
+        "name": "Beta things, whatever",
+        "content": [
+          "Added Gridlock to Beta Tanks",
+          "Added Heavy Shotgun to Beta Tanks",
+          "Added Musketeer to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 13, 2021",
+        "name": "Am alive",
+        "content": [
+          "Added Industrialist; upgrades from Factory",
+          "Added Arsenal to Beta Tanks",
+          "Added Gleamer to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 12, 2021",
+        "name": "omg belial is so fucking hot",
+        "content": [
+          "Added HMS Illustrious, a British carrier",
+          "Added Mind Controller to Beta Tanks",
+          "Balance Changes to Naval Ships",
+          "Aggressor is no longer a Beta Tank and branches off of Predator",
+          "Falcon is no longer a Beta Tank and branches off of Accelerator and Assassin",
+          "Split is no longer a Beta Tank and branchess off of Penta Shot",
+          "Gust is no longer a Beta Tank and branchess off of Spread Shot",
+          "Master is no longer a Beta Tank and branches off of Overseer",
+          "Backshield is no longer a Beta Tank and branches off of Flank Guard"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 10, 2021",
+        "name": "HEY IT IS NERFED BY ITS AVERAGE RELoAD I SWEAr",
+        "content": [
+          "Added Japanese Carriers",
+          "Added Petropavlovsk",
+          "Crashers, sentries and nest defenders no longer die on maze walls"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 9, 2021",
+        "name": "moblre",
+        "content": [
+          "Added more accessability for mobile mode, press the button in the bottom left corner to toggle"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 7, 2021",
+        "name": "Back to normalities, I guess...",
+        "content": [
+          "Reenabled normal gamemode shuffling",
+          "Fixed bugs with the party link system not working",
+          "You can no longer create a sandbox room by ID, it is set for you. You can still join with party links however",
+          "You can now right click on mobile by double tapping on the righthand side of your screen",
+          "Fixed numerous bugs with Aircraft Carriers on mobile"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 5, 2021",
+        "name": "So I stopped being lazy and unorganized",
+        "content": [
+          "Buffed Anti Aircraft firepower (again)",
+          "Added more American carriers",
+          "Added more Soviet carriers",
+          "Reworked the stats of ALL carriers",
+          "Added British carriers"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "December 4, 2021",
+        "name": "Action Stations!",
+        "content": [
+          "Buffed Anti Aircraft firepower",
+          "Reworked how carriers launch planes",
+          "Slightly nerfed American rockets",
+          "Gave everything proper branches in Naval Ships",
+          "Slightly nerfed Wesser due to it being OP",
+          "Added Russian Carriers"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 29, 2021",
+        "name": "OMG MOBILE WORKS I'M SO HAPPY HJHGFREHRFEHRUI",
+        "content": [
+          "Made the home menu work better on mobile",
+          "Sandbox rooms now close once all players are disconnected",
+          "Reworked the scale of food rarity, and doubled the rarity of green shapes",
+          "Fixed the majority of bugs with mobile mode",
+          "Removed the digital ocean server from the list",
+          "Minimaps in sandbox are now accurate and only display things in the room they are bound to"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 28, 2021",
+        "name": "Uh oh.",
+        "content": [
+          "Re-added Elite Director and re-designed it, currently unspawnable",
+          "Added a Rammer Sentry, currently unspawnable",
+          "Added Scalene Triangles and Rhombuses",
+          "Added a Pebble rock type",
+          "Removed Industrian"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 26, 2021",
+        "name": "i may regrt this",
+        "content": [
+          "Fixed bugs with Sandbox mode",
+          "Added a server selector"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 26, 2021",
+        "name": "So I made some uh, 'quality of life' improvements",
+        "content": [
+          "Reworked the base Density, Pushability and Penetration of all entities",
+          "Buffed Smasher",
+          "Made Mothership slightly smaller",
+          "Reworked gamemode generation",
+          "Slightly changed gamemode codes",
+          "Many gamemodes now have Open and Maze modes",
+          "Added Sandbox mode",
+          "Added a new server at #wa"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 25, 2021",
+        "name": "I hade a lovely hike",
+        "content": [
+          "Added a way to create custom arenas using the maze generator",
+          "Reworked maze wall collision physics, they are no longer hugely bouncy",
+          "Boss Rush now has a custom arena",
+          "Fixed issues with spawning in bases controlled by the bosses in Boss Rush",
+          "You cannot spawn if you have no bases in boss rush",
+          "Added a lose condition in Boss Rush, similar to arras.io siege"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 25, 2021",
+        "name": "ok gonna spend time with family lol",
+        "content": [
+          "Made the #how-to-play status embeds better"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 24, 2021",
+        "name": "So I got bored",
+        "content": [
+          "Added EK-3 to X-K-X Bosses",
+          "Added EK-4 to X-K-X Bosses",
+          "Added EK-5 to X-K-X Bosses",
+          "Added TK-1 to X-K-X Bosses",
+          "Added TK-2 to X-K-X Bosses",
+          "Added TK-3 to X-K-X Bosses",
+          "Colony now branches off of Director",
+          "Rebalanced Redistributor",
+          "Buffed Smasher",
+          "Added Master to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 21, 2021",
+        "name": "WW91J3JlIGEgZnVja2luZyBuZXJkLiBHZXQgYSBsaWZl",
+        "content": [
+          "Reworked food spawning and chances",
+          "Fixed various bugs",
+          "Added Zeppelin to Beta Tanks",
+          "Added Giffard, branches off of Zeppein",
+          "Added Hindenburg, branches off of Zeppelin"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 21, 2021",
+        "name": "There's a real lake called 'El Lago Titikaka' in South America",
+        "content": [
+          "Added Senior-Tester",
+          "Nerfed Dominator health by ~8.334%",
+          "You can no longer upgrade skill points on dominators",
+          "Added Center Control mode! Keep members of your team in the center zone of the map to gain points!"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 20, 2021",
+        "name": "Absol likes to censor my changelogs. Watch: FUCK (Part Two)",
+        "content": [
+          "Made the start menu more compatible with mobile",
+          "Fixed bugs with the IOS downloadable version. (Add the page to the home screen)",
+          "Moved all launcher branch tanks in Developer branches to playable tanks as they are balanced",
+          "Biohazard is now public and branches off of Arthropoda",
+          "Trapswarmer is now public and branches off of Mini Swarmer",
+          "Hivemind is now public and branches off of Spawner",
+          "Auto-Basic is now public and branches off of Basic",
+          "Added Drone Dominator",
+          "Added Steamroller Dominator",
+          "Added Crockett Dominator",
+          "Added Spawner Dominator",
+          "Added Auto-Dominator",
+          "Added Octoceptionist² to Overdone Tanks",
+          "Added Pentaceptionist² to Overdone Tanks",
+          "Added Fighterceptionist² to Overdone Tanks",
+          "Added more Arena Closers"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 20, 2021",
+        "name": "So what if we ate the world? (Part One)",
+        "content": [
+          "Reworked Lucrehulk entirely, and made it a special boss in Boss Rush",
+          "Nerfed Nest Defenders",
+          "Nerfed the EK-X bosses",
+          "Added a developer branch to take care of X-K-X bosses",
+          "Added a developer branch to take care of overdone tanks",
+          "Added MK-1 to X-K-X Bosses",
+          "Added MK-2 to X-K-X Bosses",
+          "Added MK-3 to X-K-X Bosses",
+          "Added Paner to Misc",
+          "Added Rose to Misc",
+          "Added Cycloid to Misc",
+          "Added Cardioid to Misc",
+          "Added Parabol to Misc",
+          "Added Flex to Misc",
+          "Added Lissajous to Misc",
+          "Added Vortext to Misc",
+          "Added Flank Panzerfaust to Misc",
+          "Added Stweamwinder to Overdone Tanks",
+          "Added Stweamicane to Overdone Tanks",
+          "Added Fallen Booster as a spawnable boss",
+          "Added Fallen Hybrid as a spawnable boss",
+          "Added Industrian as a special boss in Boss Rush"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 19, 2021",
+        "name": "A literal forest fire is approaching rapidly",
+        "content": [
+          "Added Ligma to TESTBED Misc",
+          "Finished up the Sterilizer boss!"
+        ]
+      },
+      {
+        "type": "Gamemode",
+        "date": "November 18, 2021",
+        "name": "It's been long overdue..",
+        "content": [
+          "Readded randomized gamemodes",
+          "Added many old and new modes to the gamemode randomizer",
+          "Gamemodes chances of being selected are weighted now",
+          "Reworked Space",
+          "Added map randomization, rock placement will now be different in most modes",
+          "Completely reworked how Domination's map is generated, allowing for Open Domination and bases easily",
+          "This took a lot of work, so I'd appreciate it if you shared woomy with your friends, and gave us feedback on our <a href=\"https://discord.gg/eXdGzsAyX8\">Discord</a>! (Yes this will look weird for Discord users reading this)."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 18, 2021",
+        "name": "let's play the penis game (peniss)",
+        "content": [
+          "Added a new spawnable boss with phases",
+          "Fixed bugs with boss spawning, and others with crasher spawning",
+          "Added a new special sentry, appears on the minimap",
+          "Reworked how bots spawn, and how they choose tanks. This now gives the possibility of bots using Basic, LVL 15, 30 and 45 tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 17, 2021",
+        "name": "Untrollers your ass",
+        "content": [
+          "Gave Guardian and Green Guardian stats",
+          "Made Atrium spawnable. Guardians are not yet spawnable because \"YoU NeeD tO BaLANcE THEm\" (I already did) (They are spawnable I lied)",
+          "Added an Omission sentry",
+          "Added Mega Sentry boss, it is spawnable and splits into multiple bosses on death",
+          "Fixed issues with boss spawning",
+          "-=-\nIt's almost time...\n-=-"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 17, 2021",
+        "name": "A little trolling, as they say",
+        "content": [
+          "Added Gustception to TESTBED Misc",
+          "Added the Guardian boss",
+          "Added the Green Guardian boss",
+          "Added a boss called Sterilizer"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 16, 2021",
+        "name": "Cleaning up...",
+        "content": [
+          "Gave all of the tanks added in the last update stats, and moved them to Beta Tanks",
+          "Fixed bugs with the page system",
+          "Reworked Atrium's drone purpose and function",
+          "Added a Sentry branch to Developer",
+          "Added Lucrehulk developer boss",
+          "Added Colony to Beta Tanks",
+          "Added Panopoly, branches off of Colony",
+          "Added Colony Ception, branches off of Panopoly",
+          "Added Omission, branches off of Panopoly",
+          "Added Flank Colony, branches off of Colony",
+          "Added Bactirial Colony, branches off of Flank Colony",
+          "Added Flank Stovepipe, branches off of Flank Colony and Stovepipe",
+          "Added Turtle, branches off of Flank Colony",
+          "Added Stovepipe, branches off of Colony",
+          "Added Mothership, branches off of Stovepipe"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 16, 2021",
+        "name": "Random things",
+        "content": [
+          "Added Thot Destroyer to TESTBED Misc",
+          "Added Split",
+          "Added Gust",
+          "Added Green Guardian Lite",
+          "Added the Atrium boss"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 16, 2021",
+        "name": "Me adding tanks again lmao",
+        "content": [
+          "Added a function for making 'over' and 'ception' tanks",
+          "Added Overdestroyer, branches off of Destroyer",
+          "Added Sniperceptionist, branches off of Basicceptionist",
+          "Added Machceptionist, branches off of Basicceptionist",
+          "Added Poundceptionist, branches off of Basicceptionist",
+          "Added Flankceptionist, branches off of Basicceptionist",
+          "Added Basicception to Beta Tanks",
+          "Added Twinception, branches off of Basicception",
+          "Added Sniperception, branches off of Basicception",
+          "Added Machineception, branches off of Basicception",
+          "Added Pounderception, branches off of Basicception",
+          "Added Flankception, branches off of Basicception",
+          "Added Poundmind, branches off of Hivemind",
+          "Added Flankmind, branches off of Hivemind",
+          "Added Dronemind, branches off of Hivemind",
+          "Added Trapmind, branches off of Hivemind",
+          "Added Growmind, branches off of Hivemind",
+          "Added Pelletmind, branches off of Hivemind",
+          "Nerfed hiveminds and ceptionists"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 15, 2021",
+        "name": "I LIKE BOYS AND YOU CAN'T CHANGE IT",
+        "content": [
+          "Added Hivemind to Beta Tanks",
+          "Added Twinmind, branches off of Hivemind",
+          "Added Snipemind, branches off of Hivemind",
+          "Added Machmind, branches off of Hivemind",
+          "Added Domimind, a Misc. tank"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 15, 2021",
+        "name": "PS3 finally does something",
+        "content": [
+          "Added Redistributor to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 15, 2021",
+        "name": "Auto-2 upgrades by Z46",
+        "content": [
+          "Added Auto-2; upgrades from Basic",
+          "Added Auto-3; upgrades from Auto-2",
+          "Added Auto-5: upgrades from Auto-5",
+          "Added Auto-7; upgrades from Auto-7",
+          "Added Swivel-2; upgrades from Auto-2",
+          "Added Swivel-3; upgrades from Auto-3 and Swivel-2",
+          "Added Swivel-5; upgrades from Swivel-3 and Auto-5",
+          "Added Axis-4; upgrades from Swivel-2",
+          "Added Stack-6; upgrades from Axis-4",
+          "Added Twin-2; upgrades from Auto-2 and twin",
+          "Added Twin-3; upgrades from Twin-2 and Auto-3",
+          "Added Twin-5; upgrades from Twin-3 and auto-5",
+          "Added Swivel-Twin; upgrades from Twin-3 and Swivel-3",
+          "Added Sniper-2; upgrades from Auto-2 and Sniper",
+          "Added Sniper-3; upgrades from Sniper-2 and Auto-3",
+          "Added Sniper-5; upgrades from Sniper-3 and auto-5",
+          "Added Swivel-Sniper; upgrades from Swivel-3 and Sniper-3",
+          "Added Machine-2; upgrades from Auto-2 and Machine Gun",
+          "Added Machine-3; upgrades from Machine-2 and Auto-3",
+          "Added Machine-5; upgrades from Machine-3 and Auto-5",
+          "Added Swivel-Machine; upgrades from Machine-3 and Swivel-3",
+          "Added Pounder-2; upgrades from Auto-2 and Pounder",
+          "Added Pounder-3; upgrades from Pounder-2 and Auto-3",
+          "Added Pounder-5; upgrades from Pounder-3 and Auto-5",
+          "Added Swivel-Pounder; upgrades from Swivel-3 and Pounder-3",
+          "Added Trapper-2; upgrades from Auto-2 and Trapper",
+          "Added Trapper-3; upgrades from Auto-3 and Trapper-2",
+          "Added Trapper-5; upgrades from Auto-5 and Trapper-3",
+          "Added Swivel-Trapper; upgrades from Swivel-3 and Trapper-3",
+          "Added Director-2; upgrades from Auto-2 and Director",
+          "Added Director-3; upgrades from Auto-3 and Director-2",
+          "Added Director-5; upgrades from Director-3 and Auto-5",
+          "Added Swivel-Director; upgrades from Director-3 and Swivel-3",
+          "Added Grower-2; upgrades from Auto-2 and Grower",
+          "Added Grower-3; upgrades from Auto-3 and Grower-2",
+          "Added Grower-5; upgrades from Auto-5 and Grower-3",
+          "Added Swivel-Grower; upgrades from Swivel-3 and Grower-3",
+          "Added Pelleter-2; upgrades from Auto-2 and Pelleter",
+          "Added Pelleter-3; upgrades from Auto-3 and Pelleter-2",
+          "Added Pelleter-5; upgrades from Auto-5 and Pelleter-3",
+          "Added Swivel-Pelleter; upgrades from Swivel-3 and Pelleter-3",
+          "Added Auto-Pelleter to Beta Tanks",
+          "Added Auto-Gunner to Beta Tanks",
+          "Added Auto-Propeller to Beta Tanks",
+          "Added Auto-Tri-angle to Beta Tanks",
+          "Renamed Machine Gun to Machine",
+          "Nerfed Base Drone size",
+          "Heavily nerfed Base Drone damage",
+          "Nerfed Base Drone amount from 10 > 8",
+          "Buffed Auto-2 and it's upgrades' bullet health",
+          "HEAVILY buffed Swivel-2 and it's upgrades' recoil",
+          "Slightly reduced Swivel-2 and it's upgrades' reload"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 14, 2021",
+        "name": "It's bigger than it looks I swear (lenny)",
+        "content": [
+          "Optimized the class tree (Press Y to toggle)",
+          "Added the Auto-2 branch to Beta Tanks the branch is mostly complete with all tanks added, just needs to be tested",
+          "Added the Ceptionist to Beta Tanks",
+          "Added Miscellaneous branch to Developer",
+          "Moved some tanks around and fixed some bugs"
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "November 11, 2021",
+        "name": "Make your own Ddony base",
+        "content": [
+          "Added Basebrid; a hybrid basic tank; upgrades from Basic",
+          "Added Overbasic; a barreled tank that can also use 4 aimable drones to kill it's opponents from far away; upgrades from Basebrid and Director",
+          "Added Overtrapper; An overbasic but instead of using bullets it uses traps; upgrades from Overbasic",
+          "Added VIP; a basebrid with extra drones; upgrades from overbasic",
+          "Added Flank Cruiser; A swarm guard that uses cruiser swarm instead of normal swarm; upgrades from Cruiser and Swarm Guard",
+          "Added Poundbrid; a Pounder hybrid; upgrades from Pounder and Basebrid",
+          "Added Pelleter Hybrid; a hybrid pelleter; upgrades from Pelleter and Basebrid",
+          "Added Motor to Beta Tanks",
+          "Added Overdrive to Beta Tanks",
+          "Added Deluxe to Beta Tanks",
+          "Added Overluxe to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "November 11, 2021",
+        "name": "D D D",
+        "content": [
+          "Heavily buffed Overbasic's drone health",
+          "Reduced Overbasic's drone amount from 5 to 4",
+          "Heavily nerfed Moderator's drone damage",
+          "Nerfed Viper Snake's reload",
+          "Buffed Blaster's bullet damage and penetration",
+          "Nerfed Beehive bullet speed",
+          "Heavily nerfed Naturalist and it's upgrades' bullet speed"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 8, 2021",
+        "name": "C C C",
+        "content": [
+          "Added Annibrid; A woomy original, a annihilator hybrid; upgrades from hybrid and annihilator.",
+          "Added Blaster to Beta Tanks.",
+          "Added Auto-Basic to Beta Tanks.",
+          "Added Auto-Trapper to Beta Tanks.",
+          "Added Auto-Builder to Beta Tanks.",
+          "Added Pelleter Hybrid to Beta Tanks.",
+          "Added Naturalistbrid to Beta Tanks.",
+          "Added Moderator to Beta Tanks.",
+          "Made a start on the Space Shooters.",
+          "Heavily nerfed Spawner start minion speed."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 7, 2021",
+        "name": "B B B",
+        "content": [
+          "Added Battlecarrier; A carrier that uses double the amount of swarm with 3 barrels being automatic and 3 being aimable; upgrades from Carrier and Battleship.",
+          "Added Hybrado to Beta Tanks.",
+          "Added Viper to Beta Tanks > Hybrado.",
+          "Slightly buffed Swarm damage."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "November 6, 2021",
+        "name": "A hide in the Diep",
+        "content": [
+          "Added Triple; Originally called Triple Twin in old woomy; upgrades from Double.",
+          "Added Stalker; A diep original with a change of design; upgrades from assassin.",
+          "Added Overbasic to Beta Tanks > Basebrid (this tank was made by Lineegg).",
+          "Added Overtrapper to Beta Tanks > Overbasic.",
+          "Added VIP to Beta Tanks > Basebrid."
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "November 6, 2021",
+        "name": "I already ran out of update names",
+        "content": [
+          "Slightly nerfed Pounder and it's upgrades' bullet health and damage.",
+          "Buffed Puntgun and it's upgrades' reload.",
+          "Slightly nerfed Accelerator and it's upgrades' (including Kinematic) recoil.",
+          "Nerfed Miniswarm and it's upgrades' max bullet speed.",
+          "Fixed Annihilator's danger value being too low.",
+          "Slightly nerfed Basebrid's max drone speed.",
+          "Manager now has 6 drones instead of 8 making it level 30.",
+          "Heptatrapper now has even less recoil.",
+          "Buffed Naturalist and it's upgrades' bullet spray.",
+          "Diploid now uses twin stats.",
+          "Fixed Artificialist having way too big bullets.",
+          "Fixed Drop-Kick's minion to not exist.",
+          "Buffed Cleanser's spray even more.",
+          "Slightly Buffed Coin Gun's reload.",
+          "Decreased the severity of Kinematic's reload buff.",
+          "Buffed Entomologist's reload."
+        ]
+      },
+      {
+        "type": "Gamemode",
+        "date": "October 31, 2021",
+        "name": "What did I tell ya?",
+        "content": [
+          "Added pumpkins, killing them gives you points and an achievement, you can use this to get a role in the discord. This requires you to use a token however",
+          "Made it spooky and hard to see",
+          "This will be active until Nov. 2nd",
+          "Added a prize command to get roles for achievements"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "October 31, 2021",
+        "name": "There probably should be a Halloween event later, right guys? *wink wink*",
+        "content": [
+          "Added mobile support, better graphics quality and options will come later",
+          "Added reCAPTCHA"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "October 30, 2021",
+        "name": "Righto, mate!",
+        "content": [
+          "Added a poll command for developers",
+          "Reworked the claim command",
+          "Added an optional setting to require tokens to join the server",
+          "You can no longer shoot in bases",
+          "Replaced Base Protectors with Base Drones. They have a set range scaled with the map and are much more balanced than Base Protectors"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "October 30, 2021",
+        "name": "OH MY GOD I AM NOT FAT",
+        "content": [
+          "Added a way to properly publish changelogs because we are a lazy bunch of devs",
+          "Beta Testers and Developers can now bypass the VPN blocker and tab limit",
+          "Reworked Invisibility speeds",
+          "Added Landmine, branches off of Smasher (Beta Tanks)",
+          "Added Stalker to Beta Tanks",
+          "Added Maleficitor to Beta Tanks",
+          "Gave Maleficitor, Predator and all Invisible tanks ToolTips",
+          "Fixed Trebutchet's name not being capitalized",
+          "Changed some settings, click 'Reset Options' to see the new changes",
+          "Changed death animation process",
+          "Added an option to change how objects grow on death"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "October 30, 2021",
+        "name": "Triple Triple Triple?.",
+        "content": [
+          "Added Tri Cruiser; a woomy original that uses 3 aimable swarm and 3 auto swarm to kill it's opponents; upgrades from Battleship",
+          "Added Biohazard to Beta Tanks",
+          "Added Triple to Beta Tanks",
+          "Added an update system for the Digital Ocean server",
+          "Added Flank Cruiser to Beta Tanks",
+          "Fixed Cutter's name"
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "October 30, 2021",
+        "name": "Drone",
+        "content": [
+          "Nerfed the amount drones get's pushed.",
+          "Buffed Drone Damage.",
+          "Nerfed Trap reload.",
+          "Buffed Swarm damage.",
+          "Buffed Grower and it's upgrades' bullet health.",
+          "Buffed Flank guard and it's upgrades' bullet damage.",
+          "Slightly Buffed Pounder's bullet health.",
+          "Nerfed Destroyer and it's upgrades' bullet speed.",
+          "Slightly nerfed Lightning and it's upgrades' reload.",
+          "Heavily nerfed Blunderbuss' bullet damage.",
+          "Fixed various balance mistakes in the rifle branch.",
+          "Buffed Propeller and it's upgrades frontal barrel bullet damage.",
+          "Heavily Buffed Swarm guard's swarm speed.",
+          "Slightly nerfed Binary's small bullet health.",
+          "Nerfed Annihilator in multiple stats.",
+          "Fixed Cutter having 6 danger value instead of 7.",
+          "Buffed Inferno's damage.",
+          "Buffed Manager's reload.",
+          "Removed Manager's recoil.",
+          "Heavily nerfed Battlecarrier's swarm damage.",
+          "Heavily buffed Bent Boomer's boomerang duration."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "October 24, 2021",
+        "name": "My excuse that I'm doing shit.",
+        "content": [
+          "Fixed issues in code formatting",
+          "Fixed a fatal security issue with the bot",
+          "Allowed the bot to use prefixes for different servers",
+          "Added an update system for the Digital Ocean server",
+          "Redesigned the maps for TDM modes",
+          "The only gamemodes are FFA, 2TDM 3TDM and 4TDM",
+          "More maps will be redesigned soon",
+          "Added Wagner, branches off of Rifle"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "October 24, 2021",
+        "name": "Propel it away",
+        "content": [
+          "Added Propeller; a fairly fast tank that still has good frontal damage; upgrades from Basic.",
+          "Added Tri-Angle; A faster version of Propeller; Upgrades from Flank Guard and Propeller.",
+          "Added Booster; a Tri-angle with 4 thrusters instead of 2; upgrades from Tri-angle.",
+          "Added Fighter; a Tri-angle with sidebarrels; upgrades from Tri-angle.",
+          "Added Surfer; a Tri-angle with swarm barrels; upgrades from Tri-angle.",
+          "Added Bomber; a trapguard with thrusters; upgrades from Accelerator, Tri-angle and Trap Guard.",
+          "Added Accelerator; a really fast tank with insane thrusters, upgrades from Propeller and upgrades into Eagle and Bomber.",
+          "Added Basebrid to Beta Tanks.",
+          "Added Poundbrid to Beta Tanks."
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "October 24, 2021",
+        "name": "Give that eagle some rest",
+        "content": [
+          "Once again made some balance changes to Eagle.",
+          "Redesigned Propeller.",
+          "Slightly nerfed Accelerator's recoil.",
+          "Slightly Buffed Booster's reload.",
+          "Heptatrapper is no longer faster than booster.",
+          "Battlecarrier now uses autoswarm on 4 of it's barrels."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "October 17, 2021",
+        "name": "OMG IT'S MIDWAY AHHHH",
+        "content": [
+          "Added American Aircraft Carriers.",
+          "Yamato's guns now take time to turn."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "October 13, 2021",
+        "name": "Rail and Pistonfarm?",
+        "content": [
+          "Added Railgun; a sniperlike tank with very powerful bullets; upgrades from Assassin.",
+          "Added Piston; a swarming tank that can also use it's trap as defense; upgrades from Trap Guard and Cruiser.",
+          "Changed Eagle's design.",
+          "Battleship now also upgrades from Overseer.",
+          "Added Bent Boomer to Beta Tanks.",
+          "Changed Accelerator's design."
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "October 13, 2021",
+        "name": "Drone Party",
+        "content": [
+          "Nerfed trap health.",
+          "Heavily buffed drone damage.",
+          "Nerfed Clicker and Puncher's bullet penetration and damage.",
+          "Slightly buffed Puncher's bullet health.",
+          "Reduced Speedbump's delay.",
+          "Heavily buffed Propeller and it's upgrades' bullet damage and penetration.",
+          "Heavily nerfed Tri-angle and it's upgrades back bullet damage and penetration.",
+          "Slightly buffed Inferno's bullet penetration and damage.",
+          "Buffed Piston's frontal swarm reload.",
+          "Slightly nerfed Surfer's swarm reload.",
+          "Slightly buffed Heptatrapper's trap duration.",
+          "Slightly nerfed Infestor's and imposter's reload."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "October 11, 2021",
+        "name": "Better Carrier Mechanics",
+        "content": [
+          "Added August von Parceval, a mid tier carrier.",
+          "Added fighters, planes that target other planes.",
+          "Added AA guns",
+          "Quadrupled AP Bomb damage"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "October 9, 2021",
+        "name": "Putin learns that Putin behind plot to assassinate Putin",
+        "content": [
+          "Added Soccer to the gamemode randomizer, after finally finishing the mode that's been in the works for three months.",
+          "Kill Race now requires 50 kills.",
+          "Added Hide and Seek to the gamemode randomizer. Seekers must kill the hiders 25 times to win! Hiders must get 25 points to win. Hiders get 1 point every thirty seconds.",
+          "You now have a three minute limit to invulnerability."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "October 9, 2021",
+        "name": "Cutting the engine.",
+        "content": [
+          "Added Cutter; a tank that shoots 4 twin barrels, 2 focused 2 to the sides; upgrades from Triple Shot and Hewn.",
+          "Added Engineer; a builder that has turrets on it's blocks and destroys it's blocks when having  more than 8 on the field; upgrades from builder.",
+          "Added Trap Swarmer to Beta Tanks."
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "October 9, 2021",
+        "name": "Ram is viable?.",
+        "content": [
+          "Slightly buffed Body Damage.",
+          "Buffed Health.",
+          "Slightly buffed Trap damage.",
+          "Nerfed Trap health.",
+          "Nerfed Trap reload.",
+          "Buffed Swarm damage.",
+          "Nerfed Swarm health.",
+          "Nerfed Twin and it's upgrade's bullet penetration.",
+          "Buffed Flank guard and it's upgrades' bullet penetration.",
+          "Nerfed Pounder and it's upgrades' max speed.",
+          "Slightly buffed Trap damage.",
+          "Heavily nerfed Pounder and it's upgrades' reload.",
+          "Buffed Grower and it's upgrades' bullet health.",
+          "Heavily nerfed Mini Swarmer and it's upgrades' reload",
+          "Buffed Launcher bullet duration.",
+          "Heavily buffed Launcher max speed.",
+          "Nerfed Launcher start speed.",
+          "Heavily buffed Launcher health.",
+          "Buffed Punt Gun's and it's upgrades' bullet damage.",
+          "Heavily Buffed Sidewinder's and Attack Missiler's small bullet damage.",
+          "Rebalanced Demoman completely.",
+          "Slightly nerfed Speedbumb to weaken the buff it got from launcher.",
+          "Buffed Trebuchet's bullet health .",
+          "Nerfed Trebuchet's reload.",
+          "Heavily buffed Cartographer's drone health.",
+          "Fixed Steam Engine having less danger value.",
+          "Fixed Tricruiser having less danger value.",
+          "Tricruiser no longer spins.",
+          "Slightly buffed Tri-angle and it's upgrades' bullet health.",
+          "Heavily nerfed Tri-angle and it's upgrades' thruster health.",
+          "Heavily buffed Propeller and it's upgrades' thruster health.",
+          "Slightly nerfed Railgun's reload."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "October 7, 2021",
+        "name": "Oblivion does a thing",
+        "content": [
+          "Fixed Heptatrapper's delay",
+          "Buffed all celestials",
+          "Increased player cap",
+          "Made arenas smaller"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "October 7, 2021",
+        "name": "Map it out.",
+        "content": [
+          "Added Cartographer; a lvl 60 drones tank with many 12 slightly weaker drones; upgrades from Overlord.",
+          "Adjusted Eagle's design to match Accelerator.",
+          "Added Propeller to Beta Tanks.",
+          "Added Accelerator to Beta Tanks.",
+          "Added Tri-angle to Beta Tanks.",
+          "Added Fighter to Beta Tanks.",
+          "Added Surfer to Beta Tanks.",
+          "Added Bomber to Beta Tanks.",
+          "Added Heptatrapper to Beta Tanks."
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "October 7, 2021",
+        "name": "Destroyed.",
+        "content": [
+          "Slightly buffed Swarm damage.",
+          "Nerfed bullet recoil again.",
+          "Slightly nerfed Minigun and it's upgrades' bullet size.",
+          "Nerfed Minion density.",
+          "Slightly nerfed Promenader's trap reload.",
+          "Nerfed Pather's trap reload.",
+          "Slightly nerfed Hovercraft's swarm reload.",
+          "Buffed Swamper's trail recoil.",
+          "Nerfed Triplet's bullet size.",
+          "Slightly nerfed Hewn's and Cutter's bullet health.",
+          "Slightly buffed Multishot and it's upgrades.",
+          "Nerfed Destroyer and it's upgrades' bullet speed.",
+          "Slightly nerfed Destroyer and it's upgrades' bullet damage.",
+          "Slightly nerfed Destroyer and it's upgrades' bullet penetration.",
+          "Slightly buffed Smasher's health.",
+          "Slightly buffed Smasher's body damage.",
+          "Engineer now has maximum of 6 blocks."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "October 5, 2021",
+        "name": "Branch Fixes.",
+        "content": [
+          "Swamper now upgrades from Mini Swarmer.",
+          "Promenader now also upgrades from Contagion.",
+          "Pather now also upgrades from Skimmer.",
+          "Hovercraft now also upgrades from Skimmer.",
+          "Trebutchet now also upgrades from Skimmer.",
+          "Slightly adjusted Piston's design."
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "October 5, 2021",
+        "name": "Tank Bounce.",
+        "content": [
+          "Bullets are more dense now.",
+          "Bullets get pushed around slightly more.",
+          "Tanks overall get pushed more around.",
+          "Heavily nerfed Destroyer and it's upgrades' max bullet speed.",
+          "Nerfed Bee damage.",
+          "Fixed Minion's being way too bouncy.",
+          "Slightly buffed twister reload.",
+          "Buffed Swamper's trail recoil.",
+          "Fixed Promenader having a smaller danger value.",
+          "Buffed Smasher's body damage.",
+          "Smasher now has 12 max upgrade points instead of 15.",
+          "Heavily nerfed engineer's turrets reload.",
+          "Nerfed Cutter's recoil.",
+          "Nerfed Cutter's bullet penetration.",
+          "Nerfed Piston's recoil.",
+          "Buffed Railgun's bullet health.",
+          "Nerfed Railgun's bullet penetration and damage.",
+          "Heavily Nerfed Cartographer's drone health.",
+          "Buffed Cartographer's max drones from 10 to 12.",
+          "Nerfed Tricruiser's reload."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "October 4, 2021",
+        "name": "New Update Produced.",
+        "content": [
+          "Added Producer; A Woomy original; Upgrades from Builder.",
+          "Added Railgun to Beta Tanks.",
+          "Added Cutter to Beta Tanks.",
+          "Added Engineer to Beta Tanks.",
+          "Added Smasher to Beta Tanks."
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "October 4, 2021",
+        "name": "Minion bounce.",
+        "content": [
+          "Nerfed Block pushability.",
+          "Buffed Trap duration.",
+          "Buffed Swarm duration.",
+          "Nerfed Pounder and it's upgrades' bullet speed.",
+          "Made Minions more dense.",
+          "Heavily buffed Speedbump's bullet health."
+        ]
+      },
+      {
+        "type": "Gamemode",
+        "date": "September 29, 2021",
+        "name": "the next hurrah?!",
+        "content": [
+          "Added framework for a lot of secret things.",
+          "Fixed some bugs with certain modes and optimized some stuff."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "September 28, 2021",
+        "name": "very fast twin",
+        "content": [
+          "Added Twinigun:",
+          "It is a combination of Minigun and Twin.",
+          "It upgrades from Twin Machine and Minigun."
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "September 28, 2021",
+        "name": "Push me",
+        "content": [
+          "Made it so penetration no longer affects pushability, buffing all entities in pushability.",
+          "Buffed Drone damage.",
+          "Heavily buffed Trap damage.",
+          "Heavily nerfed Trap health.",
+          "Slightly nerfed Twin's bullet health.",
+          "Slightly nerfed Minigun's bullet health.",
+          "Slightly nerfed Streamliner's bullet health.",
+          "Slightly buffed Twinigun's reload.",
+          "Nerfed Producer's reload.",
+          "Buffed Producer's block speed.",
+          "Tricruiser now has autospin."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "September 27, 2021",
+        "name": "Revert",
+        "content": [
+          "You now have 45 upgrade points instead of 42.",
+          "Bots are less smart.",
+          "Added Steam Engine, Upgrades from Engine.",
+          "Added Tri Cruiser to Beta Tanks.",
+          "Added Producer to Beta Tanks.",
+          "Added Cartographer to Beta Tanks."
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "September 27, 2021",
+        "name": "I'm hunting it down",
+        "content": [
+          "Nerfed Predator small bullet.",
+          "Nerfed Pentashot's reload.",
+          "Nerfed Triplet's reload.",
+          "Slightly nerfed Triplet's damage.",
+          "Slightly buffed Firestarter's turret bullet damage.",
+          "Nerfed Puncher's bullet damage.",
+          "Slightly nerfed Twinigun's bullet health."
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "September 25, 2021",
+        "name": "bellens",
+        "content": [
+          "Buffed Bullet Penetration overall",
+          "Nerfed Minigun's and it's upgrades bullet damage",
+          "Buffed Contagion's bullet damage"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "September 25, 2021",
+        "name": "Not the Virus!",
+        "content": [
+          "Added Virus; a woomy original, upgrades from Contagion",
+          "It is a trapper that shoots quick bullets to have more ranged damage"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "September 22, 2021",
+        "name": "I do things!!!",
+        "content": [
+          "Added Arras. Yes, the tank is literally called Arras. A navyist that has sidewinder missiles as drones. Branches from Navyist (and phaser oops) This idea was by @Moonflowey ",
+          "Added Firestarter. A navyist but the thruster is replaced with an auto turret. Branches from Navyist. This idea was by @Backrooms expert",
+          "Re-added Treachery. It now has 3 strong drones instead of 6 weaker drones. The trail of these drones are now shorter in general.",
+          "Added Inferno to beta tanks.",
+          "Regen changes: The time it takes to start regenerating has been lowered from 10 seconds to 3 seconds. The shield regen stat no longer buffs health. The shield regen stat is now far more effective at, well, what it is supposed to do Natural regeneration of health and shield are now far slower in general.",
+          "Lowered the amount of skill points from 45 to 42.",
+          "Did some changes to Summoner: The squares are now far more resistant to bullets. The squares now have their own slightly-more-accurate™️ AI, meaning they won't overshoot their target and they will be able to aim at multiple targets at once. Summoner is now square colored, rather than arena closer colored. Squares themselves are now smaller in general.",
+          "Buffed the reload of all bullet-based barrels in general by ~10% (Reload: 20 >>> 16)"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "September 21, 2021",
+        "name": "The last hurrah",
+        "content": [
+          "Fixed Groups and made it the mode",
+          "Goodbye"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "September 20, 2021",
+        "name": "I've gotten a gun and a trap",
+        "content": [
+          "Added Gunner Trapper, upgrades from Gunner and Trap Guard",
+          "Fixed Steam Engine having weird stats",
+          "Added Twinigun to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "September 19, 2021",
+        "name": "Another balance patch??",
+        "content": [
+          "Slightly nerfed Drone reload",
+          "Buffed Spawner's acceleration",
+          "Buffed Trapguard's bullet duration",
+          "Nerfed Bee health",
+          "Nerfed Engine's recoil"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "September 19, 2021",
+        "name": "I Don't get",
+        "content": [
+          "Added Protist, upgrades from spawner",
+          "Fixed Myriapoda's design",
+          "Added Virus to Beta Tanks",
+          "Added Gunner Trapper to Beta Tanks"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "September 19, 2021",
+        "name": "serpinskieye's rectangle",
+        "content": [
+          "Gave myself a gradient name color (I'm special lol)",
+          "Reworked the terminal, beta testers now have access to some commands"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "September 18, 2021",
+        "name": "Ava hurry it up already I'm getting bored.",
+        "content": [
+          "Fixed perms with the discord bot",
+          "Added a new bot command for staff",
+          "The achievements command now defaults to the user who used it if no users are mentioned",
+          "Added a developer terminal",
+          "Fixed turret smoothness, thanks to Winquacks",
+          "Reworked mode shuffling",
+          "Fixed bugs"
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "September 18, 2021",
+        "name": "Organizing developer branches",
+        "content": [
+          "Added new developer branches",
+          "Moved almost all Launcher upgrades to the developer 'balancing' branch",
+          "Moved Tri-angle to the developer 'unfinished' branch",
+          "Nerfed Trap reload",
+          "Nerfed Bullet recoil",
+          "Nerfed overal bullet speed",
+          "Nerfed explosion damage"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "September 16, 2021",
+        "name": "i did this at school",
+        "content": [
+          "Fixed certain hotkeys not working",
+          "Properly fixed TAB",
+          "The game now forces https",
+          "Fixed local storage taking up too much data, this change will require you to reinput your token and name again"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "September 12, 2021",
+        "name": "hi wanna womy aras???????",
+        "content": [
+          "Fixed Lancer's lance having a danger value",
+          "Fixed pressing TAB making your game lose control",
+          "Fixed the wiki, render page and tanks page not working with https, it also now forces https on those pages specifically",
+          "Reworked Trape Fighter",
+          "Set the default death blur to 0",
+          "Removed the period in a place that we will not speak of",
+          "Nerfed Drones",
+          "Nerfed Traps",
+          "Added experimental mockup compression"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "September 12, 2021",
+        "name": "Once again, I've gotten my passport stamped at destination fricked",
+        "content": [
+          "Added party links",
+          "Added Fallen Overlord",
+          "Added Tri-Angle branch",
+          "Reworked bot population",
+          "Decreased player cap to 13",
+          "Reworked speed slightly"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "August 21, 2021",
+        "name": "My TV got frozen on a screen of some guy looked weird.",
+        "content": [
+          "Expanded the Launcher branch by about 50 new tanks. This is too much to list so I'll leave it at this.",
+          "Optimized the socket uplink greatly",
+          "Fixed the class tree looking stupid",
+          "Improved security a little, while optimizing some other stuff (ava that's a nice alt you got there :D)"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "August 20, 2021",
+        "name": "Ladies and gentlemen, we've arrived at destination fucked",
+        "content": [
+          "Reworked Launcher",
+          "Added Skimmer - Branches off of Launcher",
+          "Added Sidewinder - Branches off of Launcher",
+          "Added Rocketeer - Branches off of Launcher",
+          "Added Promenader - Branches off of Launcher",
+          "Added Swamper - Branches off of Launcher",
+          "Added Shrapnel - Branches off of Launcher"
+        ]
+      },
+      {
+        "type": "Gamemode",
+        "date": "August 19, 2021",
+        "name": "I def didn't forget to post this yesterday. (v2 electric boogalloooooo)",
+        "content": [
+          "Fixed Boss Rush",
+          "Flip Flopped Green and Red",
+          "Fixed Base Protectors"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "August 17, 2021",
+        "name": "I def didn't forget to post this yesterday.",
+        "content": [
+          "Gave Boxer Alt Fire",
+          "Renamed Hewn Twin to Hewn",
+          "Fixed Multishot's design",
+          "Reduced Minigun's barrel size",
+          "Reduced Hunter's barrel size"
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "August 17, 2021",
+        "name": "The first huge balance shift.",
+        "content": [
+          "Buffed Bullet damage by 10%",
+          "Nerfed Bullet reload by 16%",
+          "Buffed Spawner bullet damage by 5%",
+          "Nerfed Drone size by 5%",
+          "Nerfed Drone health by 10%",
+          "Buffed Swarm damage by 10%",
+          "Buffed Swarm durability by 5%",
+          "Nerfed Sniper's FOV by 5%",
+          "Nerfed Assassin's FOV by 5%",
+          "Nerfed Hunter's FOV by 5%",
+          "Nerfed Cruiser's FOV by 5%",
+          "Gave Swarm Guard automatic swarm",
+          "Buffed Lightning drone damage by 2%",
+          "Fixed Blocks and boomerangs having way too much density",
+          "Nerfed Twin and it's upgrades' shudder by 10%",
+          "Nerfed twin bullet penetration by 5%",
+          "Buffed Triple Shot's bullet health by 10%",
+          "Buffed Triple Shot's bullet damage by 15%",
+          "Nerfed Triple Shot's bullet penetration by 10%",
+          "Buffed Triple Shot's recoil by 33%",
+          "Buffed Hewn's side bullet health by 10%",
+          "Nerfed Pounder and it's upgrades' bullet damage, health and penetration by 48%",
+          "Nerfed Pounder and it's upgrades' max bullet speed by 15%",
+          "Nerfed Pounder Recoil by 10%",
+          "Nerfed Destroyer Recoil by 10%",
+          "Nerfed Launcher's start speed by 66%",
+          "Nerfed Launcher's reload by 10%",
+          "Buffed Launcher's health by 20%",
+          "Nerfed Launcher's bullet damage by 50%",
+          "Nerfed Mini Swarmer's reload by 25%",
+          "Nerfed Mini Swarmer's bee start speed by 55%",
+          "Nerfed Mini swarmer's reload by 25%",
+          "Nerfed Mini Swarmer's bee health by 17%",
+          "Buffed Multishot's bullet spray by 11%",
+          "Buffed Multishot's reload by 62.5%",
+          "Nerfed Multishot's bullet damage by 5%",
+          "Nerfed Sniper and it's upgrades' shudder by 50%",
+          "Nerfed Sniper and it's upgrades' spray by 75%",
+          "Buffed Sniper's max bullet speed by 20%",
+          "Buffed Clicker's Shudder by 50% to counter the Sniper nerf",
+          "Nerfed Clicker's penetration by 7.5%",
+          "Nerfed Hunter and Binary's bullet health by 10%",
+          "Buffed Hexa's penetration by 5%",
+          "Nerfed Arthropoda's small bullet damage by 70%",
+          "Buffed Arthropoda's small bullet health by 50%",
+          "Nerfed Arthropoda's small bullet density by 50%",
+          "Nerfed Arthropoda's small bullet penetration by 20%"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "August 16, 2021",
+        "name": "\"The update you've all been waiting for...\"",
+        "content": [
+          "Added Heatseeker - Branches from Director at level 30",
+          "Added Presser - Branches from Heatseeker at level 45 - Basically a twin heatseeker",
+          "Added Astronaut - Branches from Heatseeker at level 45 - Basically a pounder heatseeker",
+          "Added Flycatcher - Branches from Heatseeker at level 45 - Basically a sniper heatseeker",
+          "Added Grower - Branches from Basic at level 15 - Old mini grower, but the bullets don't slow down as much.",
+          "Added Botanist - Branches from Grower and Pounder at level 30 - Pounder grower",
+          "Added Superstorm - Branches from Botanist and Destroyer at level 45 - Destroyer grower",
+          "Nerfed eggs - This idea was suggested by @the egg nerf wasn't for nothing."
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "August 15, 2021",
+        "name": "\"hi\"",
+        "content": [
+          "Added Hunter - Branches off of Sniper",
+          "Added Boxer - Branches off of Twin and Pounder",
+          "Added Hewn Twin - Branches off of Twin",
+          "Added Binary - Branches off of Twin",
+          "Added Quad Trapper (Replacing Tri-Trapper) - Branches off of Flank and Trapper",
+          "Added Contagion - Branches off of Trapper",
+          "Added Clicker - Branches off of Sniper",
+          "Added Multishot - Branches off of Pounder",
+          "Added Arthropoda (Replacing Arachnid) - Branches off of Flank",
+          "Added Thunder - Branches off of Lightning",
+          "Added Overlord - Branches off of Overseer",
+          "Added Octo - Branches off of Hexa",
+          "Added Myriapoda - Branches off of Arthropoda"
+        ]
+      },
+      {
+        "type": "Gamemode",
+        "date": "August 15, 2021",
+        "name": "gamemodes!",
+        "content": [
+          "Added Domination, Mothership, TDM and Tag modes.",
+          "Added Circular arenas, these can be applied to most existing modes.",
+          "Optimized map rendering.",
+          "Redesigned Trappers."
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "August 14, 2021",
+        "name": "ABSOL LOOK BEHIND YOU",
+        "content": [
+          "Rebalanced various stats and entities",
+          "Rebalanced Swarms",
+          "Rebalanced Drones and Minions",
+          "Fixed penetration and density bugs"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "August 13, 2021",
+        "name": "Ello old chap! What the devil were you doing in there?!",
+        "content": [
+          "Added dev hax",
+          "Optimizations",
+          "Added gun skins"
+        ]
+      },
+      {
+        "type": "Update",
+        "date": "August 13, 2021",
+        "name": "The return?",
+        "content": [
+          "Pushed the client",
+          "Applied a new rewritten serverside engine, optimizing the code greatly",
+          "Added over 15 new tanks"
+        ]
+      },
+      {
+        "type": "Balance",
+        "date": "August 12, 2021",
+        "name": "There's like, only 20 tanks lmao",
+        "content": [
+          "Buffed Pounders",
+          "Reworked Drones",
+          "Added a reworked version of Twister"
+        ]
+      }
+    ]
+  }

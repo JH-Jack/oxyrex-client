@@ -340,18 +340,18 @@
         },
         {
           connectionInfo: {
-            provider: "PC",
-            region: "Localhost",
-            ip: "127.0.0.1:3000",
-            hash: "xyz",
-            secure: !1,
+            provider: "Your PC",
+            region: "Your region",
+            ip: "localhost:3000",
+            hash: "c",
+            secure: 0,
             timezone: new Date().getTimezoneOffset() / -60,
           },
           displayInfo: await (async function () {
             let t;
             try {
               t = await (
-                await fetch("http://127.0.0.1:3000/gamemodeData.json")
+                await fetch("http://localhost:3000/gamemodeData.json")
               ).json();
             } catch (e) {
               t = {

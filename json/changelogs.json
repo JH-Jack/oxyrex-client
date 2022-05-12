@@ -1,15 +1,7 @@
 {
+<<<<<<< HEAD
   "Changelog": [
-     {
-          "type": "Update",
-          "date": "May 12 2022",
-          "name": "Redistributor was kinda op tbh...",
-          "content": [
-         "Nerfed redistributors reload time by 3",
-         "Nerfed Brackets reload time by 3.5 times",
-         "Nerfed Stablizers reload time by 3.25 times"
-          ]
-      },
+   
       {
           "type": "Hotfix",
           "date": "May 12 2022",
@@ -21,6 +13,22 @@
          "Fixed Snowguns stats and cannon delay",
          "Fixed icegun not branching off of minigun"
           ]
+=======
+  "Changelog": [
+     {
+       
+      {
+          "type": "Hotfix",
+          "date": "May 12 2022",
+          "name": "e",
+          "content": [
+         "Fixed Hail haing no effect hue",
+         "Fixed Nor' Easter having a glitched turret",
+         "Fixed Acid Rain having the wrong effect hue",
+         "Fixed Snowguns stats and cannon delay",
+         "Fixed icegun not branching off of minigun"
+          ]
+>>>>>>> 61d2c930451212b20ea79d402521e4c0f11b19ff
       },
       {
           "type": "Update",
@@ -59,6 +67,7 @@
             "The summoner now creates 4 summoner fragments upon death",
             "Fixed the AI of fallen bosses",
             "Tripled nest defender health",
+
             "Removed tesla crashers from spawning",
             "Re-added effect hues"
           ]
@@ -3444,6 +3453,11 @@
         "Buffed Pounders",
         "Reworked Drones",
         "Added a reworked version of Twister"
+      ]
+    }
+  ]
+}
+Added a reworked version of Twister"
       ]
     }
   ]

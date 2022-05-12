@@ -282,7 +282,7 @@
           return t;
         })(),
       },
-  /*    {
+      {
         connectionInfo: {
           provider: "Azure",
           region: "Japan East",
@@ -308,7 +308,7 @@
           }
           return t;
         })(),
-      }, */
+      }, 
       {
         connectionInfo: {
           provider: "Repl.it",

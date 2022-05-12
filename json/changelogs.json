@@ -1,5 +1,15 @@
 {
   "Changelog": [
+     {
+          "type": "Update",
+          "date": "May 12 2022",
+          "name": "Redistributor was kinda op tbh...",
+          "content": [
+         "Nerfed redistributors reload time by 3",
+         "Nerfed Brackets reload time by 3.5 times",
+         "Nerfed Stablizers reload time by 3.25 times"
+          ]
+      },
       {
           "type": "Hotfix",
           "date": "May 12 2022",

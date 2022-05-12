@@ -288,14 +288,14 @@
           region: "Japan East",
           ip: "xoxys.erws.ga",
           hash: "oa",
-          secure: !0,
+          secure: 0,
           timezone: new Date().getTimezoneOffset() / -60,
         },
         displayInfo: await (async function () {
           let t;
           try {
             t = await (
-              await fetch("https://xoxys.erws.ga/gamemodeData.json")
+              await fetch("http://xoxys.erws.ga/gamemodeData.json")
             ).json();
           } catch (e) {
             t = {

@@ -1,7 +1,5 @@
 {
   "Changelog": [
-     {
-       
       {
           "type": "Hotfix",
           "date": "May 12 2022",
@@ -51,7 +49,6 @@
             "The summoner now creates 4 summoner fragments upon death",
             "Fixed the AI of fallen bosses",
             "Tripled nest defender health",
-
             "Removed tesla crashers from spawning",
             "Re-added effect hues"
           ]
@@ -3437,11 +3434,6 @@
         "Buffed Pounders",
         "Reworked Drones",
         "Added a reworked version of Twister"
-      ]
-    }
-  ]
-}
-Added a reworked version of Twister"
       ]
     }
   ]

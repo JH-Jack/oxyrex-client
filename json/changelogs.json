@@ -1,6 +1,17 @@
 {
   "Changelog": [
       {
+          "type": "Hotfix",
+          "date": "May 12 2022",
+          "name": "e",
+          "content": [
+         "Fixed Hail haing no effect hue",
+         "Fixed Nor' Easter having a glitched turret",
+         "Fixed Acid Rain having the wrong effect hue",
+         "Fixed Snowguns stats and cannon delay"
+          ]
+      },
+      {
           "type": "Update",
           "date": "May 8 2022",
           "name": "OMG, we're back, and we're better than ever!",

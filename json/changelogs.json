@@ -8,7 +8,8 @@
          "Fixed Hail haing no effect hue",
          "Fixed Nor' Easter having a glitched turret",
          "Fixed Acid Rain having the wrong effect hue",
-         "Fixed Snowguns stats and cannon delay"
+         "Fixed Snowguns stats and cannon delay",
+         "Fixed icegun not branching off of minigun"
           ]
       },
       {

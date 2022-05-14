@@ -92,14 +92,14 @@
           ...l.map((e) => e).filter((e) => e.fallback),
           {
             imageURL:
-              "https://cdn.glitch.me/396e25b1-9cc5-4a3c-bb77-1ef78c4f8fc5%2Ff2aa7c9a-a8cd-4cef-a659-3ed56a2ce834.image.png?v=1638227980083",
-            link: "https://heroku.com/",
+              "https://cdn.discordapp.com/attachments/968633236383207514/975061017639911474/azure.png",
+            link: "https://azure.com",
             fallback: !0,
           },
           {
             imageURL:
-              "https://cdn.glitch.me/396e25b1-9cc5-4a3c-bb77-1ef78c4f8fc5%2Fe88afd41-5499-41d2-b626-d7b1c5239785.image.png?v=1638225820180",
-            link: "https://extravm.com/",
+              "https://cdn.discordapp.com/attachments/968633236383207514/975061645732765726/blog_post_20.PNG.jpeg",
+            link: "https://oracle.com/cloud",
             fallback: !0,
           },
         ];

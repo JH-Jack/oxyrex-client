@@ -308,7 +308,7 @@
           }
           return t;
         })(),
-      }, 
+      },
       {
         connectionInfo: {
           provider: "Repl.it",
@@ -504,7 +504,9 @@
     try {
       global.playerCount = (
         await (
-          await fetch(location.protocol + "//6ibui.glitch.me/serverData")
+          await fetch(
+            location.protocol + "//oxyrex-manager.liyongxin.repl.co/Data.json"
+          )
         ).json()
       ).players;
     } catch (e) {
@@ -1557,29 +1559,29 @@
         paletteSize: 10,
         border: 0.5,
       },
-      "oxyrex": {
-        "teal": "#00FFF7",
-        "lgreen": "#3AD22D",
-        "orange": "#FA5705",
-        "yellow": "#ffe100",
-        "lavender": "#5900FF",
-        "pink": "#E718C4",
-        "vlgrey": "#999999",
-        "lgrey": "#808080",
-        "guiwhite": "#FFFFFF",
-        "black": "#262626",
-        "blue": "#00C8ff",
-        "green": "#00FF7B",
-        "red": "#ff245e",
-        "gold": "#FFBF00",
-        "purple": "#005cfa",
-        "magenta": "#8712ED",
-        "grey": "#808080",
-        "dgrey": "#666666",
-        "white": "#E6E6E6",
-        "guiblack": "#000000",
-        "paletteSize": 10,
-        "border": 0.75
+      oxyrex: {
+        teal: "#00FFF7",
+        lgreen: "#3AD22D",
+        orange: "#FA5705",
+        yellow: "#ffe100",
+        lavender: "#5900FF",
+        pink: "#E718C4",
+        vlgrey: "#999999",
+        lgrey: "#808080",
+        guiwhite: "#FFFFFF",
+        black: "#262626",
+        blue: "#00C8ff",
+        green: "#00FF7B",
+        red: "#ff245e",
+        gold: "#FFBF00",
+        purple: "#005cfa",
+        magenta: "#8712ED",
+        grey: "#808080",
+        dgrey: "#666666",
+        white: "#E6E6E6",
+        guiblack: "#000000",
+        paletteSize: 10,
+        border: 0.75,
       },
       DiepIO: {
         teal: "#00fff7",
@@ -5750,7 +5752,10 @@
                     "right"
                   ),
                   fe.debug[2].draw(
-                    'Server Speed: ' + (10 * gui.fps).toFixed(2) + '%' + ((gui.fps === 1) ? '' : ' OVERLOADED!'),
+                    metrics.updatetime +
+                      "Hz : " +
+                      global.playerCount +
+                      " Players",
                     n + o,
                     i - 50 - 28,
                     10,

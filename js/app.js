@@ -259,7 +259,7 @@
         connectionInfo: {
           provider: "Oracle",
           region: "JBX",
-          ip: "oxys2.erws.ga",
+          ip: "oxys.erisws.com",
           hash: "ob",
           secure: !0,
           timezone: new Date().getTimezoneOffset() / -60,
@@ -268,7 +268,7 @@
           let t;
           try {
             t = await (
-              await fetch("https://oxys2.erws.ga/gamemodeData.json")
+              await fetch("https://oxys.erisws.com/gamemodeData.json")
             ).json();
           } catch (e) {
             t = {

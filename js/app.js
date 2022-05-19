@@ -286,7 +286,7 @@
         connectionInfo: {
           provider: "Azure",
           region: "Japan East",
-          ip: "xoxys.erws.ga",
+          ip: "xoxys.erisws.com",
           hash: "oa",
           secure: !0,
           timezone: new Date().getTimezoneOffset() / -60,
@@ -295,7 +295,7 @@
           let t;
           try {
             t = await (
-              await fetch("https://xoxys.erws.ga/gamemodeData.json")
+              await fetch("https://xoxys.erisws.com/gamemodeData.json")
             ).json();
           } catch (e) {
             t = {

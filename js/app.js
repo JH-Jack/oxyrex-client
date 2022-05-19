@@ -2023,6 +2023,8 @@
         return "#5588bb";
       case 33:
         return "#5544ee";
+      case 34:
+        return "#dd4444";
       default:
         return "#FF0000";
     }

@@ -2823,7 +2823,7 @@
             "theme",
             "Theme",
             "string",
-            "oxyrex", // Change to "classic" to use the classic theme
+            "classic", // Change to "classic" to use the classic theme
             (e) => (color = themes[e] || themes[normal]),
             {
               keys: Object.keys(themes),

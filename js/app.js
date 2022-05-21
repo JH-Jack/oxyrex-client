@@ -941,7 +941,7 @@
               (global.died = !1);
             break;
 
- case 72:
+ case 13:
             if (!global.died)
             {               
                 if (global.isChatMode === false)                         

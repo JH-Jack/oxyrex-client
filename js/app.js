@@ -942,9 +942,9 @@
             break;
 
  case 72:
-            if (!a.died)
+            if (!global.died)
             {               
-                if (a.isChatMode === false)                         
+                if (global.isChatMode === false)                         
                 {
                     // Chat input textbox.
                     let chatInput = document.createElement('input');
@@ -984,7 +984,7 @@
                                     let maxLen = 100; 
                                     let trimmedMessage = Y.length > maxLen ? Y.substring(0, maxLen - 3) + "..." : Y.substring(0, maxLen); 
                                     
-                                    a.socket.talk('h', trimmedMessage, 1)
+                                    global.socket.talk('h', trimmedMessage, 1)
                                   
                                     chatInputWrapper.removeChild(chatInput);
                                     document.body.removeChild(chatInputWrapper);
@@ -992,7 +992,7 @@
                                     let gameCanvas = document.getElementById('gameCanvas');
                                     gameCanvas.focus();
                                     
-                                    a.isChatMode = false;                                    
+                                    global.isChatMode = false;                                    
                                 }  
                                                               
                         }
@@ -1009,11 +1009,11 @@
                             let gameCanvas = document.getElementById('gameCanvas');
                             gameCanvas.focus();                            
 
-                            a.isChatMode = false; 
+                            global.isChatMode = false; 
                         }
                     });
                     
-                    a.isChatMode = true;
+                    global.isChatMode = true;
 
                     // To remove initial "i" letter.                        
                     setTimeout(() => {
